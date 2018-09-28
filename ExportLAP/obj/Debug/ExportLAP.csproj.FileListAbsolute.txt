@@ -1,0 +1,34 @@
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.dll
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.dll
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.csprojResolveAssemblyReference.cache
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.dll
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.pdb
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.dll
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.csprojResolveAssemblyReference.cache
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.csprojResolveAssemblyReference.cache
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.csprojResolveAssemblyReference.cache
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.csprojResolveAssemblyReference.cache
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\ExportLAP\obj\Debug\ExportLAP.pdb

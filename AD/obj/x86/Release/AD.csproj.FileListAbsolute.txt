@@ -1,0 +1,55 @@
+D:\c#\Contabilidad\AD\bin\x86\Release\AD.dll
+D:\c#\Contabilidad\AD\bin\x86\Release\AD.pdb
+D:\c#\Contabilidad\AD\bin\x86\Release\BE.dll
+D:\c#\Contabilidad\AD\bin\x86\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\c#\Contabilidad\AD\bin\x86\Release\BE.pdb
+D:\c#\Contabilidad\AD\obj\x86\Release\ResolveAssemblyReference.cache
+D:\c#\Contabilidad\AD\obj\x86\Release\AD.dll
+D:\c#\Contabilidad\AD\obj\x86\Release\AD.pdb
+D:\c#\Contabilidad2\AD\bin\x86\Release\AD.dll
+D:\c#\Contabilidad2\AD\bin\x86\Release\AD.pdb
+D:\c#\Contabilidad2\AD\bin\x86\Release\BE.dll
+D:\c#\Contabilidad2\AD\bin\x86\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\c#\Contabilidad2\AD\bin\x86\Release\BE.pdb
+D:\c#\Contabilidad2\AD\obj\x86\Release\ResolveAssemblyReference.cache
+D:\c#\Contabilidad2\AD\obj\x86\Release\AD.dll
+D:\c#\Contabilidad2\AD\obj\x86\Release\AD.pdb
+D:\c#\Contabilidad4\AD\bin\x86\Release\AD.dll
+D:\c#\Contabilidad4\AD\bin\x86\Release\AD.pdb
+D:\c#\Contabilidad4\AD\bin\x86\Release\BE.dll
+D:\c#\Contabilidad4\AD\bin\x86\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\c#\Contabilidad4\AD\bin\x86\Release\BE.pdb
+D:\c#\Contabilidad4\AD\obj\x86\Release\ResolveAssemblyReference.cache
+D:\c#\Contabilidad4\AD\obj\x86\Release\AD.dll
+D:\c#\Contabilidad4\AD\obj\x86\Release\AD.pdb
+D:\ANGELOENTREGA\ContabilidadWEB\AD\bin\x86\Release\AD.dll
+D:\ANGELOENTREGA\ContabilidadWEB\AD\bin\x86\Release\AD.pdb
+D:\ANGELOENTREGA\ContabilidadWEB\AD\bin\x86\Release\BE.dll
+D:\ANGELOENTREGA\ContabilidadWEB\AD\bin\x86\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\ANGELOENTREGA\ContabilidadWEB\AD\bin\x86\Release\BE.pdb
+D:\ANGELOENTREGA\ContabilidadWEB\AD\obj\x86\Release\ResolveAssemblyReference.cache
+D:\ANGELOENTREGA\ContabilidadWEB\AD\obj\x86\Release\AD.dll
+D:\ANGELOENTREGA\ContabilidadWEB\AD\obj\x86\Release\AD.pdb
+D:\Desarrollo\ContabilidadWEB\AD\bin\x86\Release\AD.dll
+D:\Desarrollo\ContabilidadWEB\AD\bin\x86\Release\AD.pdb
+D:\Desarrollo\ContabilidadWEB\AD\bin\x86\Release\BE.dll
+D:\Desarrollo\ContabilidadWEB\AD\bin\x86\Release\BE.pdb
+D:\Desarrollo\ContabilidadWEB\AD\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Desarrollo\ContabilidadWEB\AD\obj\x86\Release\AD.dll
+D:\Desarrollo\ContabilidadWEB\AD\obj\x86\Release\AD.pdb
+D:\ContabilidadWEB\AD\bin\x86\Release\AD.dll
+D:\ContabilidadWEB\AD\bin\x86\Release\AD.pdb
+D:\ContabilidadWEB\AD\bin\x86\Release\BE.dll
+D:\ContabilidadWEB\AD\bin\x86\Release\BE.pdb
+D:\ContabilidadWEB\AD\obj\x86\Release\ResolveAssemblyReference.cache
+D:\ContabilidadWEB\AD\obj\x86\Release\AD.dll
+D:\ContabilidadWEB\AD\obj\x86\Release\AD.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\AD\bin\x86\Release\AD.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\AD\bin\x86\Release\AD.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\AD\bin\x86\Release\BE.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\AD\bin\x86\Release\Eventos.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\AD\bin\x86\Release\BE.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\AD\bin\x86\Release\Eventos.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\AD\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\AD\obj\x86\Release\AD.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\AD\obj\x86\Release\AD.pdb

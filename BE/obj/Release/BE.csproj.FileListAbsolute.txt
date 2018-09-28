@@ -1,0 +1,10 @@
+D:\c#\Contabilidad\BE\bin\Release\BE.dll
+D:\c#\Contabilidad\BE\bin\Release\BE.pdb
+D:\c#\Contabilidad\BE\obj\Release\ResolveAssemblyReference.cache
+D:\c#\Contabilidad\BE\obj\Release\BE.dll
+D:\c#\Contabilidad\BE\obj\Release\BE.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\bin\Release\BE.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\bin\Release\BE.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\obj\Release\ResolveAssemblyReference.cache
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\obj\Release\BE.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\obj\Release\BE.pdb

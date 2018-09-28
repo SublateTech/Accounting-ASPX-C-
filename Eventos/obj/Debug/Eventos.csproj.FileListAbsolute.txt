@@ -1,0 +1,38 @@
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Eventos.dll
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Eventos.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Eventos\obj\Debug\Eventos.dll
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Eventos\obj\Debug\Eventos.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Eventos\obj\Debug\Eventos.csprojResolveAssemblyReference.cache
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Eventos.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Eventos.pdb
+F:\ShiolContabilidadEscritorio\trunk\Eventos\obj\Debug\Eventos.csprojResolveAssemblyReference.cache
+F:\ShiolContabilidadEscritorio\trunk\Eventos\obj\Debug\Eventos.dll
+F:\ShiolContabilidadEscritorio\trunk\Eventos\obj\Debug\Eventos.pdb
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Eventos.dll
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Eventos.pdb
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Eventos\obj\Debug\Eventos.dll
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Eventos\obj\Debug\Eventos.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Eventos.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Eventos.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Eventos\obj\Debug\Eventos.csprojResolveAssemblyReference.cache
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Eventos\obj\Debug\Eventos.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Eventos\obj\Debug\Eventos.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Eventos.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Eventos.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Eventos\obj\Debug\Eventos.csprojResolveAssemblyReference.cache
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Eventos\obj\Debug\Eventos.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Eventos\obj\Debug\Eventos.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Eventos.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Eventos.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Eventos\obj\Debug\Eventos.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Eventos\obj\Debug\Eventos.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Eventos\obj\Debug\Eventos.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Eventos.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Eventos.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Eventos\obj\Debug\Eventos.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Eventos\obj\Debug\Eventos.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Eventos.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Eventos.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Eventos\obj\Debug\Eventos.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Eventos\obj\Debug\Eventos.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Eventos\obj\Debug\Eventos.csprojResolveAssemblyReference.cache

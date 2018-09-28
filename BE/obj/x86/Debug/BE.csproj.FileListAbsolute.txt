@@ -1,0 +1,74 @@
+D:\c#\Contabilidad\BE\bin\x86\Debug\BE.dll
+D:\c#\Contabilidad\BE\bin\x86\Debug\BE.pdb
+D:\c#\Contabilidad\BE\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\Contabilidad\BE\obj\x86\Debug\BE.dll
+D:\c#\Contabilidad\BE\obj\x86\Debug\BE.pdb
+D:\Desarrollo\ContabilidadWEB\BE\bin\x86\Debug\BE.dll
+D:\Desarrollo\ContabilidadWEB\BE\bin\x86\Debug\BE.pdb
+D:\Desarrollo\ContabilidadWEB\BE\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Desarrollo\ContabilidadWEB\BE\obj\x86\Debug\BE.dll
+D:\Desarrollo\ContabilidadWEB\BE\obj\x86\Debug\BE.pdb
+D:\ContabilidadWEB\BE\bin\x86\Debug\BE.dll
+D:\ContabilidadWEB\BE\bin\x86\Debug\BE.pdb
+D:\ContabilidadWEB\BE\obj\x86\Debug\BE.dll
+D:\ContabilidadWEB\BE\obj\x86\Debug\BE.pdb
+D:\PROYECTOS\02 ContabilidadWEB\BE\bin\x86\Debug\BE.dll
+D:\PROYECTOS\02 ContabilidadWEB\BE\bin\x86\Debug\BE.pdb
+D:\PROYECTOS\02 ContabilidadWEB\BE\obj\x86\Debug\BE.dll
+D:\PROYECTOS\02 ContabilidadWEB\BE\obj\x86\Debug\BE.pdb
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BE\bin\x86\Debug\BE.dll
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BE\bin\x86\Debug\BE.pdb
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BE\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BE\obj\x86\Debug\BE.dll
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BE\obj\x86\Debug\BE.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BE\bin\x86\Debug\BE.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BE\bin\x86\Debug\BE.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BE\obj\x86\Debug\BE.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BE\obj\x86\Debug\BE.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BE\bin\x86\Debug\BE.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BE\bin\x86\Debug\BE.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BE\obj\x86\Debug\BE.csprojResolveAssemblyReference.cache
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BE\obj\x86\Debug\BE.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BE\obj\x86\Debug\BE.pdb
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BE\bin\x86\Debug\BE.dll
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BE\bin\x86\Debug\BE.pdb
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BE\obj\x86\Debug\BE.csprojResolveAssemblyReference.cache
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BE\obj\x86\Debug\BE.dll
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BE\obj\x86\Debug\BE.pdb
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BE\bin\x86\Debug\BE.dll
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BE\bin\x86\Debug\BE.pdb
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BE\obj\x86\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BE\obj\x86\Debug\BE.dll
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BE\obj\x86\Debug\BE.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BE\bin\x86\Debug\BE.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BE\bin\x86\Debug\BE.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Debug\BE.csprojResolveAssemblyReference.cache
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Debug\BE.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Debug\BE.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\bin\x86\Debug\BE.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\bin\x86\Debug\BE.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Debug\BE.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Debug\BE.pdb
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BE\bin\x86\Debug\BE.dll
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BE\bin\x86\Debug\BE.pdb
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Debug\BE.dll
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Debug\BE.pdb
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Debug\BE.csprojResolveAssemblyReference.cache
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BE\bin\x86\Debug\BE.dll
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BE\bin\x86\Debug\BE.pdb
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Debug\BE.csprojResolveAssemblyReference.cache
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Debug\BE.dll
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Debug\BE.pdb
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BE\bin\x86\Debug\BE.dll
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BE\bin\x86\Debug\BE.pdb
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Debug\BE.dll
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Debug\BE.pdb
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BE\bin\x86\Debug\BE.dll
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BE\bin\x86\Debug\BE.pdb
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Debug\BE.dll
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Debug\BE.pdb
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BE\bin\x86\Debug\BE.dll
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BE\bin\x86\Debug\BE.pdb
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BE\obj\x86\Debug\BE.dll
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BE\obj\x86\Debug\BE.pdb

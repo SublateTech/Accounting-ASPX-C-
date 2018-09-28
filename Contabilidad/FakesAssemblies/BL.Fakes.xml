@@ -1,0 +1,1181 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BL.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:BL.Fakes.ShimBLAlmacen">
+            <summary>Shim type of BL.BLAlmacen</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLAlmacen.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLAlmacen.#ctor(BL.BLAlmacen)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLAlmacen.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLAlmacen.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAlmacen.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAlmacen.Constructor">
+            <summary>Sets the shim of BLAlmacen.BLAlmacen()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAlmacen.almacenesAll">
+            <summary>Sets the shim of BLAlmacen.almacenesAll()</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLAlmacen.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAlmacen.AllInstances.almacenesAll">
+            <summary>Sets the shim of BLAlmacen.almacenesAll()</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLAsientos">
+            <summary>Shim type of BL.BLAsientos</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLAsientos.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLAsientos.#ctor(BL.BLAsientos)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLAsientos.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLAsientos.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AsientoContable_ListarStringStringString">
+            <summary>Sets the shim of BLAsientos.AsientoContable_Listar(String AsientoContableID, String EstablecimientoID, String Periodo)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.ConciliacionStringStringStringStringInt32DateTime">
+            <summary>Sets the shim of BLAsientos.Conciliacion(String EstablecimientoID, String Periodo, String Datos, String Por, Int32 HotelID, DateTime fechaConciliacion)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.Constructor">
+            <summary>Sets the shim of BLAsientos.BLAsientos()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.asientosContablesStringStringDateTimeDateTimeStringInt32">
+            <summary>Sets the shim of BLAsientos.asientosContables(String empresaId, String ejercicio, DateTime desde, DateTime hasta, String subdiarioId, Int32 hotelId)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.asientosContablesStringStringDateTimeDateTimeStringStringStringInt32">
+            <summary>Sets the shim of BLAsientos.asientosContables(String empresaId, String ejercicio, DateTime desde, DateTime hasta, String planCuentaID1, String planCuentaID2, String subdiarioId, Int32 hotelId)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.consolidadoAsientosContablesStringStringStringInt32Int32Int32DateTimeDateTimeStringString">
+            <summary>Sets the shim of BLAsientos.consolidadoAsientosContables(String empresaId, String ejercicio, String subDiarioID, Int32 unidadNegocioID, Int32 hotelId, Int32 areaID, DateTime desde, DateTime hasta, String planCuentaID1, String planCuentaID2)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.consolidadoDiarioAuxiliarStringInt32Int32Int32Int32Int32DateTimeDateTimeStringStringString">
+            <summary>Sets the shim of BLAsientos.consolidadoDiarioAuxiliar(String empresa, Int32 ejercicio, Int32 subDiarioID, Int32 unidadNegocioID, Int32 hotelID, Int32 areaID, DateTime fechaInicio, DateTime fechaFin, String asientoContableDetalleIDTransferencia, String codigoPlanCuenta1, String codigoPlanCuenta2)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.eliminarDetalleStringStringStringStringInt32Int32StringStringStringStringInt32">
+            <summary>Sets the shim of BLAsientos.eliminarDetalle(String EstablecimientoID, String Periodo, String AsientoContableID, String AsientoContableDetalleID, Int32 UsuarioID, Int32 UsuarioIdAutorizado, String IPEquipo, String UsuarioActualEquipo, String NombreEquipo, String TablaMovimientoID, Int32 HotelID)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.eliminarVoucherStringStringStringInt32Int32StringStringStringStringInt32">
+            <summary>Sets the shim of BLAsientos.eliminarVoucher(String EstablecimientoID, String Periodo, String AsientoContableID, Int32 UsuarioID, Int32 UsuarioIdAutorizado, String IPEquipo, String UsuarioActualEquipo, String NombreEquipo, String TablaMovimientoID, Int32 HotelID)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.eliminarVoucherTodosStringStringDateTimeDateTimeStringInt32Int32StringStringStringStringInt32">
+            <summary>Sets the shim of BLAsientos.eliminarVoucherTodos(String EstablecimientoID, String Periodo, DateTime Desde, DateTime Hasta, String SubDiarioId, Int32 UsuarioID, Int32 UsuarioIdAutorizado, String IPEquipo, String UsuarioActualEquipo, String NombreEquipo, String TablaMovimientoID, Int32 HotelID)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.estadosCuentaInt32StringDateTimeDateTimeStringInt32String">
+            <summary>Sets the shim of BLAsientos.estadosCuenta(Int32 empresaId, String ejercicio, DateTime fechaInicio, DateTime fechaFin, String ruc, Int32 moneda, String planCuentaListBox)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.estadosCuentaSaldosHistoricosInt32StringDateTimeDateTimeStringInt32String">
+            <summary>Sets the shim of BLAsientos.estadosCuentaSaldosHistoricos(Int32 empresaId, String ejercicio, DateTime fechaInicio, DateTime fechaFin, String ruc, Int32 moneda, String planCuentaListBox)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.estadosCuentaSaldosInt32StringDateTimeDateTimeStringDecimalInt32String">
+            <summary>Sets the shim of BLAsientos.estadosCuentaSaldos(Int32 empresaId, String ejercicio, DateTime fechaInicio, DateTime fechaFin, String ruc, Decimal SaldoMinimo, Int32 moneda, String planCuentaListBox)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.exportarAsientosInt32Int32Int32StringBoolean">
+            <summary>Sets the shim of BLAsientos.exportarAsientos(Int32 EstablecimientoID, Int32 Ejercicio, Int32 Periodo, String SubDiarioID, Boolean BorrarTablas)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.importarAsientosInt32Int32StringInt32Int32Int32StringStringString">
+            <summary>Sets the shim of BLAsientos.importarAsientos(Int32 EstablecimientoID, Int32 Periodo, String SubDiarioID, Int32 Mes, Int32 HotelID, Int32 UsuarioID, String IPEquipo, String UsuarioActualEquipo, String NombreEquipo)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.inconsistenciasImportarInt32Int32Int32String">
+            <summary>Sets the shim of BLAsientos.inconsistenciasImportar(Int32 EstablecimientoID, Int32 Periodo, Int32 Mes, String SubDiarioID)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.inconsistenciasInt32Int32">
+            <summary>Sets the shim of BLAsientos.inconsistencias(Int32 establecimientoID, Int32 periodo)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.nombreSubDiarioString">
+            <summary>Sets the shim of BLAsientos.nombreSubDiario(String subDiarioId)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.procesosCalculoDiferenciaCambioDateTimeStringStringString">
+            <summary>Sets the shim of BLAsientos.procesosCalculoDiferenciaCambio(DateTime fecha, String EstablecimientoId, String Periodo, String HotelId)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.procesosUCO_CierrePeriodoProcedeStringString">
+            <summary>Sets the shim of BLAsientos.procesosUCO_CierrePeriodoProcede(String Ejercicio, String Establecimiento)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.setCreaAsientoCabeceraStringStringStringStringStringInt32StringStringDateTimeInt32Int32StringStringStringStringInt32">
+            <summary>Sets the shim of BLAsientos.setCreaAsientoCabecera(String NomCabecera, String Empresa, String Anio, String AsientoContableID, String SubDiarioID, Int32 HotelID, String Glosa, String Comprobante, DateTime FechaEmision, Int32 UsuarioID, Int32 UsuarioIdAutorizado, String IPEquipo, String UsuarioActualEquipo, String NombreEquipo, String TablaMovimientoID, Int32 Bloqueado)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.subdiarioEsAutomaticoString">
+            <summary>Sets the shim of BLAsientos.subdiarioEsAutomatico(String SubDiarioID)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.subdiariosBoolean">
+            <summary>Sets the shim of BLAsientos.subdiarios(Boolean opcionTodos)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.transferenciaCobranzasDateTimeDateTimeInt32StringStringStringString">
+            <summary>Sets the shim of BLAsientos.transferenciaCobranzas(DateTime desde, DateTime hasta, Int32 usuarioID, String movimiento, String ipEquipo, String usuarioActualEquipo, String nombreEquipo)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.transferenciaComprasDateTimeDateTimeInt32StringStringStringString">
+            <summary>Sets the shim of BLAsientos.transferenciaCompras(DateTime desde, DateTime hasta, Int32 usuarioID, String movimiento, String ipEquipo, String usuarioActualEquipo, String nombreEquipo)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.transferenciaDevegueGastosInt32Int32Int32StringStringStringString">
+            <summary>Sets the shim of BLAsientos.transferenciaDevegueGastos(Int32 periodo, Int32 mes, Int32 usuarioID, String movimiento, String ipEquipo, String usuarioActualEquipo, String nombreEquipo)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.transferenciaPlanillasDateTimeStringInt32StringStringStringString">
+            <summary>Sets the shim of BLAsientos.transferenciaPlanillas(DateTime fecha, String tipoProvision, Int32 usuarioID, String movimiento, String ipEquipo, String usuarioActualEquipo, String nombreEquipo)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.transferenciaSalidasDateTimeDateTimeInt32StringStringStringString">
+            <summary>Sets the shim of BLAsientos.transferenciaSalidas(DateTime desde, DateTime hasta, Int32 usuarioID, String movimiento, String ipEquipo, String usuarioActualEquipo, String nombreEquipo)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.transferenciaTesoreriaDateTimeDateTime">
+            <summary>Sets the shim of BLAsientos.transferenciaTesoreria(DateTime desde, DateTime hasta)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.transferenciaVentasDateTimeDateTimeInt32StringStringStringString">
+            <summary>Sets the shim of BLAsientos.transferenciaVentas(DateTime desde, DateTime hasta, Int32 usuarioID, String movimiento, String ipEquipo, String usuarioActualEquipo, String nombreEquipo)</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLAsientos.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.AsientoContable_ListarStringStringString">
+            <summary>Sets the shim of BLAsientos.AsientoContable_Listar(String AsientoContableID, String EstablecimientoID, String Periodo)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.ConciliacionStringStringStringStringInt32DateTime">
+            <summary>Sets the shim of BLAsientos.Conciliacion(String EstablecimientoID, String Periodo, String Datos, String Por, Int32 HotelID, DateTime fechaConciliacion)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.asientosContablesStringStringDateTimeDateTimeStringInt32">
+            <summary>Sets the shim of BLAsientos.asientosContables(String empresaId, String ejercicio, DateTime desde, DateTime hasta, String subdiarioId, Int32 hotelId)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.asientosContablesStringStringDateTimeDateTimeStringStringStringInt32">
+            <summary>Sets the shim of BLAsientos.asientosContables(String empresaId, String ejercicio, DateTime desde, DateTime hasta, String planCuentaID1, String planCuentaID2, String subdiarioId, Int32 hotelId)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.consolidadoAsientosContablesStringStringStringInt32Int32Int32DateTimeDateTimeStringString">
+            <summary>Sets the shim of BLAsientos.consolidadoAsientosContables(String empresaId, String ejercicio, String subDiarioID, Int32 unidadNegocioID, Int32 hotelId, Int32 areaID, DateTime desde, DateTime hasta, String planCuentaID1, String planCuentaID2)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.consolidadoDiarioAuxiliarStringInt32Int32Int32Int32Int32DateTimeDateTimeStringStringString">
+            <summary>Sets the shim of BLAsientos.consolidadoDiarioAuxiliar(String empresa, Int32 ejercicio, Int32 subDiarioID, Int32 unidadNegocioID, Int32 hotelID, Int32 areaID, DateTime fechaInicio, DateTime fechaFin, String asientoContableDetalleIDTransferencia, String codigoPlanCuenta1, String codigoPlanCuenta2)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.eliminarDetalleStringStringStringStringInt32Int32StringStringStringStringInt32">
+            <summary>Sets the shim of BLAsientos.eliminarDetalle(String EstablecimientoID, String Periodo, String AsientoContableID, String AsientoContableDetalleID, Int32 UsuarioID, Int32 UsuarioIdAutorizado, String IPEquipo, String UsuarioActualEquipo, String NombreEquipo, String TablaMovimientoID, Int32 HotelID)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.eliminarVoucherStringStringStringInt32Int32StringStringStringStringInt32">
+            <summary>Sets the shim of BLAsientos.eliminarVoucher(String EstablecimientoID, String Periodo, String AsientoContableID, Int32 UsuarioID, Int32 UsuarioIdAutorizado, String IPEquipo, String UsuarioActualEquipo, String NombreEquipo, String TablaMovimientoID, Int32 HotelID)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.eliminarVoucherTodosStringStringDateTimeDateTimeStringInt32Int32StringStringStringStringInt32">
+            <summary>Sets the shim of BLAsientos.eliminarVoucherTodos(String EstablecimientoID, String Periodo, DateTime Desde, DateTime Hasta, String SubDiarioId, Int32 UsuarioID, Int32 UsuarioIdAutorizado, String IPEquipo, String UsuarioActualEquipo, String NombreEquipo, String TablaMovimientoID, Int32 HotelID)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.estadosCuentaInt32StringDateTimeDateTimeStringInt32String">
+            <summary>Sets the shim of BLAsientos.estadosCuenta(Int32 empresaId, String ejercicio, DateTime fechaInicio, DateTime fechaFin, String ruc, Int32 moneda, String planCuentaListBox)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.estadosCuentaSaldosHistoricosInt32StringDateTimeDateTimeStringInt32String">
+            <summary>Sets the shim of BLAsientos.estadosCuentaSaldosHistoricos(Int32 empresaId, String ejercicio, DateTime fechaInicio, DateTime fechaFin, String ruc, Int32 moneda, String planCuentaListBox)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.estadosCuentaSaldosInt32StringDateTimeDateTimeStringDecimalInt32String">
+            <summary>Sets the shim of BLAsientos.estadosCuentaSaldos(Int32 empresaId, String ejercicio, DateTime fechaInicio, DateTime fechaFin, String ruc, Decimal SaldoMinimo, Int32 moneda, String planCuentaListBox)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.exportarAsientosInt32Int32Int32StringBoolean">
+            <summary>Sets the shim of BLAsientos.exportarAsientos(Int32 EstablecimientoID, Int32 Ejercicio, Int32 Periodo, String SubDiarioID, Boolean BorrarTablas)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.importarAsientosInt32Int32StringInt32Int32Int32StringStringString">
+            <summary>Sets the shim of BLAsientos.importarAsientos(Int32 EstablecimientoID, Int32 Periodo, String SubDiarioID, Int32 Mes, Int32 HotelID, Int32 UsuarioID, String IPEquipo, String UsuarioActualEquipo, String NombreEquipo)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.inconsistenciasImportarInt32Int32Int32String">
+            <summary>Sets the shim of BLAsientos.inconsistenciasImportar(Int32 EstablecimientoID, Int32 Periodo, Int32 Mes, String SubDiarioID)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.inconsistenciasInt32Int32">
+            <summary>Sets the shim of BLAsientos.inconsistencias(Int32 establecimientoID, Int32 periodo)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.nombreSubDiarioString">
+            <summary>Sets the shim of BLAsientos.nombreSubDiario(String subDiarioId)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.procesosCalculoDiferenciaCambioDateTimeStringStringString">
+            <summary>Sets the shim of BLAsientos.procesosCalculoDiferenciaCambio(DateTime fecha, String EstablecimientoId, String Periodo, String HotelId)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.procesosUCO_CierrePeriodoProcedeStringString">
+            <summary>Sets the shim of BLAsientos.procesosUCO_CierrePeriodoProcede(String Ejercicio, String Establecimiento)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.setCreaAsientoCabeceraStringStringStringStringStringInt32StringStringDateTimeInt32Int32StringStringStringStringInt32">
+            <summary>Sets the shim of BLAsientos.setCreaAsientoCabecera(String NomCabecera, String Empresa, String Anio, String AsientoContableID, String SubDiarioID, Int32 HotelID, String Glosa, String Comprobante, DateTime FechaEmision, Int32 UsuarioID, Int32 UsuarioIdAutorizado, String IPEquipo, String UsuarioActualEquipo, String NombreEquipo, String TablaMovimientoID, Int32 Bloqueado)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.setCreaAsientoDetalleStringStringStringStringDecimalDecimalStringInt32Int32Int32DateTimeStringDateTimeDateTimeInt32StringStringInt32StringDecimalDecimalStringStringStringInt32ArrayDecimalArrayDecimalArrayStringInt32String">
+            <summary>Sets the shim of BLAsientos.setCreaAsientoDetalle(String EstablecimientoID, String Periodo, String AsientoContableDetalleID, String AsientoContableID, Decimal MontoDebe, Decimal MontoHaber, String CanalContableID, Int32 EmpresaID, Int32 TipoDocumentoID, Int32 ProyectoID, DateTime Dia, String Referencia, DateTime FechaEmision, DateTime FechaVencimiento, Int32 AreaID, String NumeroDocumento, String TransaccionDocumentoID, Int32 FlujoCajaID, String PlanCuentaID, Decimal ImporteSoles, Decimal ImporteDolares, String AsientoContableDetalleIDTransferencia, String PeriodoID, String TablaMovimientoIDAsientos, Int32[] UnidadNegocioId, Decimal[] UNImporteSoles, Decimal[] UNImporteDolares, String TipoConversionMonedaID, Int32 MonedaID, String TipoCambio)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.setCreaAsientoDetalleStringStringStringStringDecimalDecimalStringInt32Int32Int32DateTimeStringDateTimeDateTimeInt32StringStringInt32StringDecimalDecimalStringStringStringInt32DecimalDecimalInt32DecimalDecimalInt32DecimalDecimalInt32DecimalDecimalInt32Decim">
+            <summary>Sets the shim of BLAsientos.setCreaAsientoDetalle(String EstablecimientoID, String Periodo, String AsientoContableDetalleID, String AsientoContableID, Decimal MontoDebe, Decimal MontoHaber, String CanalContableID, Int32 EmpresaID, Int32 TipoDocumentoID, Int32 ProyectoID, DateTime Dia, String Referencia, DateTime FechaEmision, DateTime FechaVencimiento, Int32 AreaID, String NumeroDocumento, String TransaccionDocumentoID, Int32 FlujoCajaID, String PlanCuentaID, Decimal ImporteSoles, Decimal ImporteDolares, String AsientoContableDetalleIDTransferencia, String PeriodoID, String TablaMovimientoIDAsientos, Int32 UnidadNegocioId_1, Decimal ImporteSoles_1, Decimal ImporteDolares_1, Int32 UnidadNegocioId_2, Decimal ImporteSoles_2, Decimal ImporteDolares_2, Int32 UnidadNegocioId_3, Decimal ImporteSoles_3, Decimal ImporteDolares_3, Int32 UnidadNegocioId_4, Decimal ImporteSoles_4, Decimal ImporteDolares_4, Int32 UnidadNegocioId_5, Decimal ImporteSoles_5, Decimal ImporteDolares_5, Int32 UnidadNegocioId_6, Decimal ImporteSoles_6, Decimal ImporteDolares_6, Int32 UnidadNegocioId_7, Decimal ImporteSoles_7, Decimal ImporteDolares_7, Int32 UnidadNegocioId_8, Decimal ImporteSoles_8, Decimal ImporteDolares_8, Int32 UnidadNegocioId_9, Decimal ImporteSoles_9, Decimal ImporteDolares_9, Int32 UnidadNegocioId_10, Decimal ImporteSoles_10, Decimal ImporteDolares_10, String TipoConversionMonedaID, Int32 MonedaID, String TipoCambio)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.subdiarioEsAutomaticoString">
+            <summary>Sets the shim of BLAsientos.subdiarioEsAutomatico(String SubDiarioID)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.subdiariosBoolean">
+            <summary>Sets the shim of BLAsientos.subdiarios(Boolean opcionTodos)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.transferenciaCobranzasDateTimeDateTimeInt32StringStringStringString">
+            <summary>Sets the shim of BLAsientos.transferenciaCobranzas(DateTime desde, DateTime hasta, Int32 usuarioID, String movimiento, String ipEquipo, String usuarioActualEquipo, String nombreEquipo)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.transferenciaComprasDateTimeDateTimeInt32StringStringStringString">
+            <summary>Sets the shim of BLAsientos.transferenciaCompras(DateTime desde, DateTime hasta, Int32 usuarioID, String movimiento, String ipEquipo, String usuarioActualEquipo, String nombreEquipo)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.transferenciaDevegueGastosInt32Int32Int32StringStringStringString">
+            <summary>Sets the shim of BLAsientos.transferenciaDevegueGastos(Int32 periodo, Int32 mes, Int32 usuarioID, String movimiento, String ipEquipo, String usuarioActualEquipo, String nombreEquipo)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.transferenciaPlanillasDateTimeStringInt32StringStringStringString">
+            <summary>Sets the shim of BLAsientos.transferenciaPlanillas(DateTime fecha, String tipoProvision, Int32 usuarioID, String movimiento, String ipEquipo, String usuarioActualEquipo, String nombreEquipo)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.transferenciaSalidasDateTimeDateTimeInt32StringStringStringString">
+            <summary>Sets the shim of BLAsientos.transferenciaSalidas(DateTime desde, DateTime hasta, Int32 usuarioID, String movimiento, String ipEquipo, String usuarioActualEquipo, String nombreEquipo)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.transferenciaTesoreriaDateTimeDateTime">
+            <summary>Sets the shim of BLAsientos.transferenciaTesoreria(DateTime desde, DateTime hasta)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLAsientos.AllInstances.transferenciaVentasDateTimeDateTimeInt32StringStringStringString">
+            <summary>Sets the shim of BLAsientos.transferenciaVentas(DateTime desde, DateTime hasta, Int32 usuarioID, String movimiento, String ipEquipo, String usuarioActualEquipo, String nombreEquipo)</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLComprasSunat">
+            <summary>Shim type of BL.BLComprasSunat</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLComprasSunat.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLComprasSunat.#ctor(BL.BLComprasSunat)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLComprasSunat.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLComprasSunat.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLComprasSunat.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLComprasSunat.Constructor">
+            <summary>Sets the shim of BLComprasSunat.BLComprasSunat()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLComprasSunat.getValidacomprasInt32Int32Int32Int32">
+            <summary>Sets the shim of BLComprasSunat.getValidacompras(Int32 Desde, Int32 Empresa, Int32 Hasta, Int32 MonedaId)</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLComprasSunat.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLComprasSunat.AllInstances.getValidacomprasInt32Int32Int32Int32">
+            <summary>Sets the shim of BLComprasSunat.getValidacompras(Int32 Desde, Int32 Empresa, Int32 Hasta, Int32 MonedaId)</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLComprobador">
+            <summary>Shim type of BL.BLComprobador</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLComprobador.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLComprobador.#ctor(BL.BLComprobador)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLComprobador.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLComprobador.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLComprobador.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLComprobador.Constructor">
+            <summary>Sets the shim of BLComprobador.BLComprobador()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLComprobador.ExisteProcedimientoString">
+            <summary>Sets the shim of BLComprobador.ExisteProcedimiento(String StoredProcedureName)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLComprobador.database">
+            <summary>Sets the shim of BLComprobador.database()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLComprobador.password">
+            <summary>Sets the shim of BLComprobador.password()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLComprobador.server">
+            <summary>Sets the shim of BLComprobador.server()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLComprobador.user">
+            <summary>Sets the shim of BLComprobador.user()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLComprobador.validarConexion">
+            <summary>Sets the shim of BLComprobador.validarConexion()</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLComprobador.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLComprobador.AllInstances.ExisteProcedimientoString">
+            <summary>Sets the shim of BLComprobador.ExisteProcedimiento(String StoredProcedureName)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLComprobador.AllInstances.database">
+            <summary>Sets the shim of BLComprobador.database()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLComprobador.AllInstances.password">
+            <summary>Sets the shim of BLComprobador.password()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLComprobador.AllInstances.server">
+            <summary>Sets the shim of BLComprobador.server()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLComprobador.AllInstances.user">
+            <summary>Sets the shim of BLComprobador.user()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLComprobador.AllInstances.validarConexion">
+            <summary>Sets the shim of BLComprobador.validarConexion()</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLDocumentos">
+            <summary>Shim type of BL.BLDocumentos</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLDocumentos.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLDocumentos.#ctor(BL.BLDocumentos)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLDocumentos.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLDocumentos.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLDocumentos.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLDocumentos.Constructor">
+            <summary>Sets the shim of BLDocumentos.BLDocumentos()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLDocumentos.tipos">
+            <summary>Sets the shim of BLDocumentos.tipos()</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLDocumentos.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLDocumentos.AllInstances.tipos">
+            <summary>Sets the shim of BLDocumentos.tipos()</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLEmpresa">
+            <summary>Shim type of BL.BLEmpresa</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLEmpresa.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLEmpresa.#ctor(BL.BLEmpresa)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLEmpresa.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLEmpresa.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLEmpresa.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLEmpresa.Constructor">
+            <summary>Sets the shim of BLEmpresa.BLEmpresa()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLEmpresa.getEmpresaInt32StringString">
+            <summary>Sets the shim of BLEmpresa.getEmpresa(Int32 categoriaId, String razonSocial, String ruc)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLEmpresa.getEmpresaString">
+            <summary>Sets the shim of BLEmpresa.getEmpresa(String Ruc)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLEmpresa.getEmpresaStringInt32">
+            <summary>Sets the shim of BLEmpresa.getEmpresa(String buscar, Int32 maxRecords)</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLEmpresa.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLEmpresa.AllInstances.getEmpresaInt32StringString">
+            <summary>Sets the shim of BLEmpresa.getEmpresa(Int32 categoriaId, String razonSocial, String ruc)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLEmpresa.AllInstances.getEmpresaString">
+            <summary>Sets the shim of BLEmpresa.getEmpresa(String Ruc)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLEmpresa.AllInstances.getEmpresaStringInt32">
+            <summary>Sets the shim of BLEmpresa.getEmpresa(String buscar, Int32 maxRecords)</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLEstablecimiento">
+            <summary>Shim type of BL.BLEstablecimiento</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLEstablecimiento.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLEstablecimiento.#ctor(BL.BLEstablecimiento)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLEstablecimiento.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLEstablecimiento.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLEstablecimiento.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLEstablecimiento.Constructor">
+            <summary>Sets the shim of BLEstablecimiento.BLEstablecimiento()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLEstablecimiento.getEstablecimientoHotel">
+            <summary>Sets the shim of BLEstablecimiento.getEstablecimientoHotel()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLEstablecimiento.getEstablecimientosAll">
+            <summary>Sets the shim of BLEstablecimiento.getEstablecimientosAll()</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLEstablecimiento.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLEstablecimiento.AllInstances.getEstablecimientoHotel">
+            <summary>Sets the shim of BLEstablecimiento.getEstablecimientoHotel()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLEstablecimiento.AllInstances.getEstablecimientosAll">
+            <summary>Sets the shim of BLEstablecimiento.getEstablecimientosAll()</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLHotel">
+            <summary>Shim type of BL.BLHotel</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLHotel.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLHotel.#ctor(BL.BLHotel)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLHotel.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLHotel.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLHotel.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLHotel.Constructor">
+            <summary>Sets the shim of BLHotel.BLHotel()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLHotel.codigoConcesionario">
+            <summary>Sets the shim of BLHotel.codigoConcesionario()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLHotel.estaHabilitado">
+            <summary>Sets the shim of BLHotel.estaHabilitado()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLHotel.getAreasInt32Int32">
+            <summary>Sets the shim of BLHotel.getAreas(Int32 EstablecimientoID, Int32 HotelID)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLHotel.getAreasStringString">
+            <summary>Sets the shim of BLHotel.getAreas(String Where, String OrderBy)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLHotel.getHotelesInt32">
+            <summary>Sets the shim of BLHotel.getHoteles(Int32 _EstablecimientoID)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLHotel.getProyectos">
+            <summary>Sets the shim of BLHotel.getProyectos()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLHotel.getUnidadesNegocioAreaInt32Int32Int32">
+            <summary>Sets the shim of BLHotel.getUnidadesNegocioArea(Int32 EstablecimientoId, Int32 HotelID, Int32 AreaID)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLHotel.getUnidadesNegocioInt32StringString">
+            <summary>Sets the shim of BLHotel.getUnidadesNegocio(Int32 _EstablecimientoID, String Where, String OrderBy)</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLHotel.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLHotel.AllInstances.codigoConcesionario">
+            <summary>Sets the shim of BLHotel.codigoConcesionario()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLHotel.AllInstances.estaHabilitado">
+            <summary>Sets the shim of BLHotel.estaHabilitado()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLHotel.AllInstances.getAreasInt32Int32">
+            <summary>Sets the shim of BLHotel.getAreas(Int32 EstablecimientoID, Int32 HotelID)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLHotel.AllInstances.getAreasStringString">
+            <summary>Sets the shim of BLHotel.getAreas(String Where, String OrderBy)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLHotel.AllInstances.getHotelesInt32">
+            <summary>Sets the shim of BLHotel.getHoteles(Int32 _EstablecimientoID)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLHotel.AllInstances.getProyectos">
+            <summary>Sets the shim of BLHotel.getProyectos()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLHotel.AllInstances.getUnidadesNegocioAreaInt32Int32Int32">
+            <summary>Sets the shim of BLHotel.getUnidadesNegocioArea(Int32 EstablecimientoId, Int32 HotelID, Int32 AreaID)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLHotel.AllInstances.getUnidadesNegocioInt32StringString">
+            <summary>Sets the shim of BLHotel.getUnidadesNegocio(Int32 _EstablecimientoID, String Where, String OrderBy)</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLLibroDiarioSunat">
+            <summary>Shim type of BL.BLLibroDiarioSunat</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLLibroDiarioSunat.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLLibroDiarioSunat.#ctor(BL.BLLibroDiarioSunat)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLLibroDiarioSunat.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLLibroDiarioSunat.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLLibroDiarioSunat.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLLibroDiarioSunat.Constructor">
+            <summary>Sets the shim of BLLibroDiarioSunat.BLLibroDiarioSunat()</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLLibroDiarioSunat.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLLibroMayorSunat">
+            <summary>Shim type of BL.BLLibroMayorSunat</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLLibroMayorSunat.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLLibroMayorSunat.#ctor(BL.BLLibroMayorSunat)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLLibroMayorSunat.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLLibroMayorSunat.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLLibroMayorSunat.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLLibroMayorSunat.Constructor">
+            <summary>Sets the shim of BLLibroMayorSunat.BLLibroMayorSunat()</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLLibroMayorSunat.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLMoneda">
+            <summary>Shim type of BL.BLMoneda</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLMoneda.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLMoneda.#ctor(BL.BLMoneda)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLMoneda.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLMoneda.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLMoneda.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLMoneda.Constructor">
+            <summary>Sets the shim of BLMoneda.BLMoneda()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLMoneda.getMoneda">
+            <summary>Sets the shim of BLMoneda.getMoneda()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLMoneda.getTipoCambioStringDateTime">
+            <summary>Sets the shim of BLMoneda.getTipoCambio(String tipoConversionID, DateTime fecha)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLMoneda.getTipoConversion">
+            <summary>Sets the shim of BLMoneda.getTipoConversion()</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLMoneda.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLMoneda.AllInstances.getMoneda">
+            <summary>Sets the shim of BLMoneda.getMoneda()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLMoneda.AllInstances.getTipoCambioStringDateTime">
+            <summary>Sets the shim of BLMoneda.getTipoCambio(String tipoConversionID, DateTime fecha)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLMoneda.AllInstances.getTipoConversion">
+            <summary>Sets the shim of BLMoneda.getTipoConversion()</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLPlanCuenta">
+            <summary>Shim type of BL.BLPlanCuenta</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLPlanCuenta.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLPlanCuenta.#ctor(BL.BLPlanCuenta)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLPlanCuenta.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLPlanCuenta.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.Constructor">
+            <summary>Sets the shim of BLPlanCuenta.BLPlanCuenta()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.DatosCuentaStringInt32">
+            <summary>Sets the shim of BLPlanCuenta.DatosCuenta(String Codigo, Int32 EstablecimientoId)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.NombreCuentaStringInt32">
+            <summary>Sets the shim of BLPlanCuenta.NombreCuenta(String Codigo, Int32 EstablecimientoId)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.getCanalesContables">
+            <summary>Sets the shim of BLPlanCuenta.getCanalesContables()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.getFlujoCaja">
+            <summary>Sets the shim of BLPlanCuenta.getFlujoCaja()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.getFormatoPlanCuentas">
+            <summary>Sets the shim of BLPlanCuenta.getFormatoPlanCuentas()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.getMonedaCuentaString">
+            <summary>Sets the shim of BLPlanCuenta.getMonedaCuenta(String PlanCuentaId)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.getPlanCuentas">
+            <summary>Sets the shim of BLPlanCuenta.getPlanCuentas()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.getPlanCuentasInt32">
+            <summary>Sets the shim of BLPlanCuenta.getPlanCuentas(Int32 establecimientoId)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.getPlanCuentasStringInt32">
+            <summary>Sets the shim of BLPlanCuenta.getPlanCuentas(String criterio, Int32 EstablecimientoId)</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLPlanCuenta.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.AllInstances.DatosCuentaStringInt32">
+            <summary>Sets the shim of BLPlanCuenta.DatosCuenta(String Codigo, Int32 EstablecimientoId)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.AllInstances.NombreCuentaStringInt32">
+            <summary>Sets the shim of BLPlanCuenta.NombreCuenta(String Codigo, Int32 EstablecimientoId)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.AllInstances.getCanalesContables">
+            <summary>Sets the shim of BLPlanCuenta.getCanalesContables()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.AllInstances.getFlujoCaja">
+            <summary>Sets the shim of BLPlanCuenta.getFlujoCaja()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.AllInstances.getFormatoPlanCuentas">
+            <summary>Sets the shim of BLPlanCuenta.getFormatoPlanCuentas()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.AllInstances.getMonedaCuentaString">
+            <summary>Sets the shim of BLPlanCuenta.getMonedaCuenta(String PlanCuentaId)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.AllInstances.getPlanCuentas">
+            <summary>Sets the shim of BLPlanCuenta.getPlanCuentas()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.AllInstances.getPlanCuentasInt32">
+            <summary>Sets the shim of BLPlanCuenta.getPlanCuentas(Int32 establecimientoId)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLPlanCuenta.AllInstances.getPlanCuentasStringInt32">
+            <summary>Sets the shim of BLPlanCuenta.getPlanCuentas(String criterio, Int32 EstablecimientoId)</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLUser">
+            <summary>Shim type of BL.BLUser</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLUser.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLUser.#ctor(BL.BLUser)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLUser.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLUser.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLUser.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLUser.Constructor">
+            <summary>Sets the shim of BLUser.BLUser()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLUser.fnUsuariosAll">
+            <summary>Sets the shim of BLUser.fnUsuariosAll()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLUser.loginStringString">
+            <summary>Sets the shim of BLUser.login(String user, String password)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLUser.permisoEliminarVoucherTodosInt32">
+            <summary>Sets the shim of BLUser.permisoEliminarVoucherTodos(Int32 usuarioID)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLUser.usuarioIdString">
+            <summary>Sets the shim of BLUser.usuarioId(String user)</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLUser.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLUser.AllInstances.fnUsuariosAll">
+            <summary>Sets the shim of BLUser.fnUsuariosAll()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLUser.AllInstances.loginStringString">
+            <summary>Sets the shim of BLUser.login(String user, String password)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLUser.AllInstances.permisoEliminarVoucherTodosInt32">
+            <summary>Sets the shim of BLUser.permisoEliminarVoucherTodos(Int32 usuarioID)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLUser.AllInstances.usuarioIdString">
+            <summary>Sets the shim of BLUser.usuarioId(String user)</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLVentasSunat">
+            <summary>Shim type of BL.BLVentasSunat</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLVentasSunat.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLVentasSunat.#ctor(BL.BLVentasSunat)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLVentasSunat.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLVentasSunat.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLVentasSunat.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLVentasSunat.Constructor">
+            <summary>Sets the shim of BLVentasSunat.BLVentasSunat()</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLVentasSunat.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLcontrolPeriodo">
+            <summary>Shim type of BL.BLcontrolPeriodo</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLcontrolPeriodo.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLcontrolPeriodo.#ctor(BL.BLcontrolPeriodo)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLcontrolPeriodo.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLcontrolPeriodo.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLcontrolPeriodo.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLcontrolPeriodo.Constructor">
+            <summary>Sets the shim of BLcontrolPeriodo.BLcontrolPeriodo()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLcontrolPeriodo.UCO_selectControlPeriodoInt32">
+            <summary>Sets the shim of BLcontrolPeriodo.UCO_selectControlPeriodo(Int32 PeriodoIDV)</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLcontrolPeriodo.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLcontrolPeriodo.AllInstances.UCO_selectControlPeriodoInt32">
+            <summary>Sets the shim of BLcontrolPeriodo.UCO_selectControlPeriodo(Int32 PeriodoIDV)</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLreporte">
+            <summary>Shim type of BL.BLreporte</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLreporte.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLreporte.#ctor(BL.BLreporte)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLreporte.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimBLreporte.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLreporte.AsignaProductoIdColumnaStringInt32Int32String">
+            <summary>Sets the shim of BLreporte.AsignaProductoIdColumna(String codigoReporte, Int32 Columna, Int32 ProductoId, String Etiqueta)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLreporte.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLreporte.Constructor">
+            <summary>Sets the shim of BLreporte.BLreporte()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLreporte.datosConfigRep001String">
+            <summary>Sets the shim of BLreporte.datosConfigRep001(String codigoReporte)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLreporte.reporteFlujoIngresosDateTimeDateTimeInt32Int32">
+            <summary>Sets the shim of BLreporte.reporteFlujoIngresos(DateTime desde, DateTime hasta, Int32 usarFechaFacturacion, Int32 usarTipoCambioCuentaCorriente)</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimBLreporte.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLreporte.AllInstances.AsignaProductoIdColumnaStringInt32Int32String">
+            <summary>Sets the shim of BLreporte.AsignaProductoIdColumna(String codigoReporte, Int32 Columna, Int32 ProductoId, String Etiqueta)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLreporte.AllInstances.datosConfigRep001String">
+            <summary>Sets the shim of BLreporte.datosConfigRep001(String codigoReporte)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimBLreporte.AllInstances.reporteFlujoIngresosDateTimeDateTimeInt32Int32">
+            <summary>Sets the shim of BLreporte.reporteFlujoIngresos(DateTime desde, DateTime hasta, Int32 usarFechaFacturacion, Int32 usarTipoCambioCuentaCorriente)</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimExportExcel">
+            <summary>Shim type of BL.ExportExcel</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimExportExcel.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimExportExcel.#ctor(BL.ExportExcel)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimExportExcel.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BL.Fakes.ShimExportExcel.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimExportExcel.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimExportExcel.Constructor">
+            <summary>Sets the shim of ExportExcel.ExportExcel()</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimExportExcel.exportToExcelDataTableStringStringDateTimeDateTime">
+            <summary>Sets the shim of ExportExcel.exportToExcel(DataTable _dataTable, String _empresa, String _sucursal, DateTime _dateinicio, DateTime _datefinal)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimExportExcel.exportToExcelDetalladoDataTableStringStringDateTimeDateTime">
+            <summary>Sets the shim of ExportExcel.exportToExcelDetallado(DataTable _dataTable, String _empresa, String _sucursal, DateTime _dateinicio, DateTime _datefinal)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimExportExcel.exportToExcelHistoricoDataTableStringStringDateTimeDateTime">
+            <summary>Sets the shim of ExportExcel.exportToExcelHistorico(DataTable _dataTable, String _empresa, String _sucursal, DateTime _dateinicio, DateTime _datefinal)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimExportExcel.exportar_ExcelDataTableStringStringDateTimeDateTime">
+            <summary>Sets the shim of ExportExcel.exportar_Excel(DataTable _dataTable, String _empresa, String _sucursal, DateTime _dateinicio, DateTime _datefinal)</summary>
+        </member>
+        <member name="T:BL.Fakes.ShimExportExcel.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimExportExcel.AllInstances.exportToExcelDataTableStringStringDateTimeDateTime">
+            <summary>Sets the shim of ExportExcel.exportToExcel(DataTable _dataTable, String _empresa, String _sucursal, DateTime _dateinicio, DateTime _datefinal)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimExportExcel.AllInstances.exportToExcelDetalladoDataTableStringStringDateTimeDateTime">
+            <summary>Sets the shim of ExportExcel.exportToExcelDetallado(DataTable _dataTable, String _empresa, String _sucursal, DateTime _dateinicio, DateTime _datefinal)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimExportExcel.AllInstances.exportToExcelHistoricoDataTableStringStringDateTimeDateTime">
+            <summary>Sets the shim of ExportExcel.exportToExcelHistorico(DataTable _dataTable, String _empresa, String _sucursal, DateTime _dateinicio, DateTime _datefinal)</summary>
+        </member>
+        <member name="P:BL.Fakes.ShimExportExcel.AllInstances.exportar_ExcelDataTableStringStringDateTimeDateTime">
+            <summary>Sets the shim of ExportExcel.exportar_Excel(DataTable _dataTable, String _empresa, String _sucursal, DateTime _dateinicio, DateTime _datefinal)</summary>
+        </member>
+        <member name="T:BL.Fakes.StubBLAlmacen">
+            <summary>Stub type of BL.BLAlmacen</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLAlmacen.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLAlmacen.InitializeStub">
+            <summary>Initializes a new instance of type StubBLAlmacen</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLAlmacen.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLAlmacen.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLAlmacen.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:BL.Fakes.StubBLAsientos">
+            <summary>Stub type of BL.BLAsientos</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLAsientos.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLAsientos.InitializeStub">
+            <summary>Initializes a new instance of type StubBLAsientos</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLAsientos.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLAsientos.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLAsientos.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:BL.Fakes.StubBLComprasSunat">
+            <summary>Stub type of BL.BLComprasSunat</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLComprasSunat.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLComprasSunat.InitializeStub">
+            <summary>Initializes a new instance of type StubBLComprasSunat</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLComprasSunat.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLComprasSunat.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLComprasSunat.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:BL.Fakes.StubBLComprobador">
+            <summary>Stub type of BL.BLComprobador</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLComprobador.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLComprobador.InitializeStub">
+            <summary>Initializes a new instance of type StubBLComprobador</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLComprobador.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLComprobador.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLComprobador.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:BL.Fakes.StubBLDocumentos">
+            <summary>Stub type of BL.BLDocumentos</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLDocumentos.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLDocumentos.InitializeStub">
+            <summary>Initializes a new instance of type StubBLDocumentos</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLDocumentos.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLDocumentos.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLDocumentos.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:BL.Fakes.StubBLEmpresa">
+            <summary>Stub type of BL.BLEmpresa</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLEmpresa.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLEmpresa.InitializeStub">
+            <summary>Initializes a new instance of type StubBLEmpresa</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLEmpresa.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLEmpresa.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLEmpresa.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:BL.Fakes.StubBLEstablecimiento">
+            <summary>Stub type of BL.BLEstablecimiento</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLEstablecimiento.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLEstablecimiento.InitializeStub">
+            <summary>Initializes a new instance of type StubBLEstablecimiento</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLEstablecimiento.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLEstablecimiento.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLEstablecimiento.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:BL.Fakes.StubBLHotel">
+            <summary>Stub type of BL.BLHotel</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLHotel.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLHotel.InitializeStub">
+            <summary>Initializes a new instance of type StubBLHotel</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLHotel.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLHotel.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLHotel.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:BL.Fakes.StubBLLibroDiarioSunat">
+            <summary>Stub type of BL.BLLibroDiarioSunat</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLLibroDiarioSunat.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLLibroDiarioSunat.InitializeStub">
+            <summary>Initializes a new instance of type StubBLLibroDiarioSunat</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLLibroDiarioSunat.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLLibroDiarioSunat.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLLibroDiarioSunat.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:BL.Fakes.StubBLLibroMayorSunat">
+            <summary>Stub type of BL.BLLibroMayorSunat</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLLibroMayorSunat.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLLibroMayorSunat.InitializeStub">
+            <summary>Initializes a new instance of type StubBLLibroMayorSunat</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLLibroMayorSunat.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLLibroMayorSunat.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLLibroMayorSunat.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:BL.Fakes.StubBLMoneda">
+            <summary>Stub type of BL.BLMoneda</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLMoneda.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLMoneda.InitializeStub">
+            <summary>Initializes a new instance of type StubBLMoneda</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLMoneda.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLMoneda.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLMoneda.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:BL.Fakes.StubBLPlanCuenta">
+            <summary>Stub type of BL.BLPlanCuenta</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLPlanCuenta.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLPlanCuenta.InitializeStub">
+            <summary>Initializes a new instance of type StubBLPlanCuenta</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLPlanCuenta.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLPlanCuenta.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLPlanCuenta.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:BL.Fakes.StubBLUser">
+            <summary>Stub type of BL.BLUser</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLUser.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLUser.InitializeStub">
+            <summary>Initializes a new instance of type StubBLUser</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLUser.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLUser.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLUser.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:BL.Fakes.StubBLVentasSunat">
+            <summary>Stub type of BL.BLVentasSunat</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLVentasSunat.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLVentasSunat.InitializeStub">
+            <summary>Initializes a new instance of type StubBLVentasSunat</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLVentasSunat.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLVentasSunat.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLVentasSunat.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:BL.Fakes.StubBLcontrolPeriodo">
+            <summary>Stub type of BL.BLcontrolPeriodo</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLcontrolPeriodo.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLcontrolPeriodo.InitializeStub">
+            <summary>Initializes a new instance of type StubBLcontrolPeriodo</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLcontrolPeriodo.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLcontrolPeriodo.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLcontrolPeriodo.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:BL.Fakes.StubBLreporte">
+            <summary>Stub type of BL.BLreporte</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLreporte.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BL.Fakes.StubBLreporte.InitializeStub">
+            <summary>Initializes a new instance of type StubBLreporte</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLreporte.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLreporte.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BL.Fakes.StubBLreporte.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:BL.Fakes.StubExportExcel">
+            <summary>Stub type of BL.ExportExcel</summary>
+        </member>
+        <member name="M:BL.Fakes.StubExportExcel.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BL.Fakes.StubExportExcel.InitializeStub">
+            <summary>Initializes a new instance of type StubExportExcel</summary>
+        </member>
+        <member name="P:BL.Fakes.StubExportExcel.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BL.Fakes.StubExportExcel.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BL.Fakes.StubExportExcel.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:Microsoft.QualityTools.Testing.Fakes.Delegates.BLDelegates">
+            <summary>Contains custom delegates used for the stubs and shims of BL</summary>
+        </member>
+    </members>
+</doc>

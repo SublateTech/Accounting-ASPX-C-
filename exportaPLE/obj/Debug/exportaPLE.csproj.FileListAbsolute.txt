@@ -1,0 +1,34 @@
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.dll
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.dll
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.csprojResolveAssemblyReference.cache
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.dll
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.pdb
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.dll
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.csprojResolveAssemblyReference.cache
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.csprojResolveAssemblyReference.cache
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.csprojResolveAssemblyReference.cache
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.csprojResolveAssemblyReference.cache
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\exportaPLE\obj\Debug\exportaPLE.pdb

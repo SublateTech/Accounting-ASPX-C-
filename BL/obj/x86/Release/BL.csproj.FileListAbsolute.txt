@@ -1,0 +1,92 @@
+D:\c#\Contabilidad\BL\bin\x86\Release\BL.dll
+D:\c#\Contabilidad\BL\bin\x86\Release\BL.pdb
+D:\c#\Contabilidad\BL\bin\x86\Release\AD.dll
+D:\c#\Contabilidad\BL\bin\x86\Release\BE.dll
+D:\c#\Contabilidad\BL\bin\x86\Release\Microsoft.Office.Interop.Excel.dll
+D:\c#\Contabilidad\BL\bin\x86\Release\office.dll
+D:\c#\Contabilidad\BL\bin\x86\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\c#\Contabilidad\BL\bin\x86\Release\BE.pdb
+D:\c#\Contabilidad\BL\bin\x86\Release\AD.pdb
+D:\c#\Contabilidad\BL\obj\x86\Release\ResolveAssemblyReference.cache
+D:\c#\Contabilidad\BL\obj\x86\Release\BL.dll
+D:\c#\Contabilidad\BL\obj\x86\Release\BL.pdb
+D:\c#\Contabilidad2\BL\bin\x86\Release\BL.dll
+D:\c#\Contabilidad2\BL\bin\x86\Release\BL.pdb
+D:\c#\Contabilidad2\BL\bin\x86\Release\AD.dll
+D:\c#\Contabilidad2\BL\bin\x86\Release\BE.dll
+D:\c#\Contabilidad2\BL\bin\x86\Release\Microsoft.Office.Interop.Excel.dll
+D:\c#\Contabilidad2\BL\bin\x86\Release\office.dll
+D:\c#\Contabilidad2\BL\bin\x86\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\c#\Contabilidad2\BL\bin\x86\Release\BE.pdb
+D:\c#\Contabilidad2\BL\bin\x86\Release\AD.pdb
+D:\c#\Contabilidad2\BL\obj\x86\Release\ResolveAssemblyReference.cache
+D:\c#\Contabilidad2\BL\obj\x86\Release\BL.dll
+D:\c#\Contabilidad2\BL\obj\x86\Release\BL.pdb
+D:\c#\Contabilidad4\BL\bin\x86\Release\BL.dll
+D:\c#\Contabilidad4\BL\bin\x86\Release\BL.pdb
+D:\c#\Contabilidad4\BL\bin\x86\Release\AD.dll
+D:\c#\Contabilidad4\BL\bin\x86\Release\BE.dll
+D:\c#\Contabilidad4\BL\bin\x86\Release\Microsoft.Office.Interop.Excel.dll
+D:\c#\Contabilidad4\BL\bin\x86\Release\office.dll
+D:\c#\Contabilidad4\BL\bin\x86\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\c#\Contabilidad4\BL\bin\x86\Release\BE.pdb
+D:\c#\Contabilidad4\BL\bin\x86\Release\AD.pdb
+D:\c#\Contabilidad4\BL\obj\x86\Release\ResolveAssemblyReference.cache
+D:\c#\Contabilidad4\BL\obj\x86\Release\BL.dll
+D:\c#\Contabilidad4\BL\obj\x86\Release\BL.pdb
+D:\ANGELOENTREGA\ContabilidadWEB\BL\bin\x86\Release\BL.dll
+D:\ANGELOENTREGA\ContabilidadWEB\BL\bin\x86\Release\BL.pdb
+D:\ANGELOENTREGA\ContabilidadWEB\BL\bin\x86\Release\AD.dll
+D:\ANGELOENTREGA\ContabilidadWEB\BL\bin\x86\Release\BE.dll
+D:\ANGELOENTREGA\ContabilidadWEB\BL\bin\x86\Release\Microsoft.Office.Interop.Excel.dll
+D:\ANGELOENTREGA\ContabilidadWEB\BL\bin\x86\Release\office.dll
+D:\ANGELOENTREGA\ContabilidadWEB\BL\bin\x86\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\ANGELOENTREGA\ContabilidadWEB\BL\bin\x86\Release\BE.pdb
+D:\ANGELOENTREGA\ContabilidadWEB\BL\bin\x86\Release\AD.pdb
+D:\ANGELOENTREGA\ContabilidadWEB\BL\obj\x86\Release\ResolveAssemblyReference.cache
+D:\ANGELOENTREGA\ContabilidadWEB\BL\obj\x86\Release\BL.dll
+D:\ANGELOENTREGA\ContabilidadWEB\BL\obj\x86\Release\BL.pdb
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Release\BL.dll
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Release\BL.pdb
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Release\AD.dll
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Release\BE.dll
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Release\Microsoft.Office.Interop.Excel.dll
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Release\office.dll
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Release\AD.pdb
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Release\BE.pdb
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Release\Microsoft.Office.Interop.Excel.xml
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Release\office.xml
+D:\Desarrollo\ContabilidadWEB\BL\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Desarrollo\ContabilidadWEB\BL\obj\x86\Release\BL.dll
+D:\Desarrollo\ContabilidadWEB\BL\obj\x86\Release\BL.pdb
+D:\ContabilidadWEB\BL\bin\x86\Release\BL.dll
+D:\ContabilidadWEB\BL\bin\x86\Release\BL.pdb
+D:\ContabilidadWEB\BL\bin\x86\Release\AD.dll
+D:\ContabilidadWEB\BL\bin\x86\Release\BE.dll
+D:\ContabilidadWEB\BL\bin\x86\Release\Microsoft.Office.Interop.Excel.dll
+D:\ContabilidadWEB\BL\bin\x86\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\ContabilidadWEB\BL\bin\x86\Release\office.dll
+D:\ContabilidadWEB\BL\bin\x86\Release\AD.pdb
+D:\ContabilidadWEB\BL\bin\x86\Release\BE.pdb
+D:\ContabilidadWEB\BL\bin\x86\Release\Microsoft.Office.Interop.Excel.xml
+D:\ContabilidadWEB\BL\bin\x86\Release\office.xml
+D:\ContabilidadWEB\BL\obj\x86\Release\ResolveAssemblyReference.cache
+D:\ContabilidadWEB\BL\obj\x86\Release\BL.dll
+D:\ContabilidadWEB\BL\obj\x86\Release\BL.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Release\BL.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Release\BL.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Release\AD.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Release\BE.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Release\Microsoft.Office.Interop.Excel.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Release\Eventos.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Release\office.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Release\AD.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Release\BE.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Release\Microsoft.Office.Interop.Excel.xml
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Release\Eventos.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Release\office.xml
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Release\BL.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Release\BL.pdb

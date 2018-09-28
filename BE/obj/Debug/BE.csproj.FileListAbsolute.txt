@@ -1,0 +1,39 @@
+D:\c#\Contabilidad\BE\bin\Debug\BE.dll
+D:\c#\Contabilidad\BE\bin\Debug\BE.pdb
+D:\c#\Contabilidad\BE\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\Contabilidad\BE\obj\Debug\BE.dll
+D:\c#\Contabilidad\BE\obj\Debug\BE.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\bin\Debug\BE.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\bin\Debug\BE.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\obj\Debug\ResolveAssemblyReference.cache
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\obj\Debug\BE.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\obj\Debug\BE.pdb
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BE\bin\Debug\BE.dll
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BE\bin\Debug\BE.pdb
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BE\obj\Debug\BE.dll
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BE\obj\Debug\BE.pdb
+D:\SGH sistemas Conta\ShiolContaSolution\BE\bin\Debug\BE.dll
+D:\SGH sistemas Conta\ShiolContaSolution\BE\bin\Debug\BE.pdb
+D:\SGH sistemas Conta\ShiolContaSolution\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+D:\SGH sistemas Conta\ShiolContaSolution\BE\obj\Debug\BE.dll
+D:\SGH sistemas Conta\ShiolContaSolution\BE\obj\Debug\BE.pdb
+D:\SGHweb\SHIOLConta\modificando\BE\bin\Debug\BE.dll
+D:\SGHweb\SHIOLConta\modificando\BE\bin\Debug\BE.pdb
+D:\SGHweb\SHIOLConta\modificando\Contabilidad\bin\Debug\BE.dll
+D:\SGHweb\SHIOLConta\modificando\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+D:\SGHweb\SHIOLConta\modificando\BE\obj\Debug\BE.dll
+D:\SGHweb\SHIOLConta\modificando\BE\obj\Debug\BE.pdb
+D:\SGHweb\SHIOLConta\modificando\Contabilidad\bin\Debug\BE.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BE.dll
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BE.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\BE\obj\Debug\BE.dll
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\BE\obj\Debug\BE.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BE.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BE.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\BE\obj\Debug\BE.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\BE\obj\Debug\BE.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BE.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BE.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BE\obj\Debug\BE.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BE\obj\Debug\BE.pdb

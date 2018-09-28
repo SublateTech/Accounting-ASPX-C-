@@ -1,0 +1,28 @@
+D:\c#\Contabilidad\BL\bin\Release\BL.dll
+D:\c#\Contabilidad\BL\bin\Release\BL.pdb
+D:\c#\Contabilidad\BL\bin\Release\AD.dll
+D:\c#\Contabilidad\BL\bin\Release\BE.dll
+D:\c#\Contabilidad\BL\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\c#\Contabilidad\BL\bin\Release\office.dll
+D:\c#\Contabilidad\BL\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\c#\Contabilidad\BL\bin\Release\BE.pdb
+D:\c#\Contabilidad\BL\bin\Release\AD.pdb
+D:\c#\Contabilidad\BL\obj\Release\ResolveAssemblyReference.cache
+D:\c#\Contabilidad\BL\obj\Release\BL.dll
+D:\c#\Contabilidad\BL\obj\Release\BL.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Release\BL.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Release\BL.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Release\AD.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Release\BE.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Release\Eventos.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Release\office.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Release\AD.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Release\BE.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Release\Eventos.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Release\office.xml
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\obj\Release\ResolveAssemblyReference.cache
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\obj\Release\BL.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\obj\Release\BL.pdb

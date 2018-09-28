@@ -1,0 +1,266 @@
+D:\c#\Contabilidad\BL\bin\x86\Debug\BL.dll
+D:\c#\Contabilidad\BL\bin\x86\Debug\BL.pdb
+D:\c#\Contabilidad\BL\bin\x86\Debug\AD.dll
+D:\c#\Contabilidad\BL\bin\x86\Debug\BE.dll
+D:\c#\Contabilidad\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\c#\Contabilidad\BL\bin\x86\Debug\office.dll
+D:\c#\Contabilidad\BL\bin\x86\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\c#\Contabilidad\BL\bin\x86\Debug\BE.pdb
+D:\c#\Contabilidad\BL\bin\x86\Debug\AD.pdb
+D:\c#\Contabilidad\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\c#\Contabilidad\BL\obj\x86\Debug\BL.dll
+D:\c#\Contabilidad\BL\obj\x86\Debug\BL.pdb
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Debug\BL.dll
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Debug\BL.pdb
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Debug\AD.dll
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Debug\BE.dll
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Debug\office.dll
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Debug\AD.pdb
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Debug\BE.pdb
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Desarrollo\ContabilidadWEB\BL\bin\x86\Debug\office.xml
+D:\Desarrollo\ContabilidadWEB\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Desarrollo\ContabilidadWEB\BL\obj\x86\Debug\BL.dll
+D:\Desarrollo\ContabilidadWEB\BL\obj\x86\Debug\BL.pdb
+D:\ContabilidadWEB\BL\bin\x86\Debug\BL.dll
+D:\ContabilidadWEB\BL\bin\x86\Debug\BL.pdb
+D:\ContabilidadWEB\BL\bin\x86\Debug\AD.dll
+D:\ContabilidadWEB\BL\bin\x86\Debug\BE.dll
+D:\ContabilidadWEB\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\ContabilidadWEB\BL\bin\x86\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\ContabilidadWEB\BL\bin\x86\Debug\office.dll
+D:\ContabilidadWEB\BL\bin\x86\Debug\AD.pdb
+D:\ContabilidadWEB\BL\bin\x86\Debug\BE.pdb
+D:\ContabilidadWEB\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+D:\ContabilidadWEB\BL\bin\x86\Debug\office.xml
+D:\ContabilidadWEB\BL\obj\x86\Debug\BL.dll
+D:\ContabilidadWEB\BL\obj\x86\Debug\BL.pdb
+D:\ContabilidadWEB\BL\obj\x86\Debug\BL.csprojResolveAssemblyReference.cache
+D:\ContabilidadWEB\BL\bin\x86\Debug\Eventos.dll
+D:\ContabilidadWEB\BL\bin\x86\Debug\Eventos.pdb
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\BL.dll
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\BL.pdb
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\AD.dll
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\BE.dll
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\Eventos.dll
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\office.dll
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\AD.pdb
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\BE.pdb
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\Eventos.pdb
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\office.xml
+D:\PROYECTOS\02 ContabilidadWEB\BL\obj\x86\Debug\BL.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\02 ContabilidadWEB\BL\obj\x86\Debug\BL.dll
+D:\PROYECTOS\02 ContabilidadWEB\BL\obj\x86\Debug\BL.pdb
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\BL.dll
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\BL.pdb
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\AD.dll
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\BE.dll
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\Eventos.dll
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\office.dll
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\AD.pdb
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\BE.pdb
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\Eventos.pdb
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BL\bin\x86\Debug\office.xml
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BL\obj\x86\Debug\BL.dll
+D:\Acer Traslado\PROYECTOS\02 ContabilidadWEB\BL\obj\x86\Debug\BL.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BL\bin\x86\Debug\BL.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BL\bin\x86\Debug\BL.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BL\bin\x86\Debug\AD.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BL\bin\x86\Debug\BE.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BL\bin\x86\Debug\Eventos.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BL\bin\x86\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BL\bin\x86\Debug\office.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BL\bin\x86\Debug\AD.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BL\bin\x86\Debug\BE.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BL\bin\x86\Debug\Eventos.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BL\bin\x86\Debug\office.xml
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BL\obj\x86\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BL\obj\x86\Debug\BL.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB\BL\obj\x86\Debug\BL.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\BL.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\BL.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\AD.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\BE.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\Eventos.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\office.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\AD.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\BE.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\Eventos.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\office.xml
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\obj\x86\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\obj\x86\Debug\BL.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\obj\x86\Debug\BL.pdb
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\BL.dll
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\BL.pdb
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\AD.dll
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\BE.dll
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\Eventos.dll
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\Microsoft.ApplicationBlocks.Data.dll
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\office.dll
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\AD.pdb
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\BE.pdb
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\Eventos.pdb
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\office.xml
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\obj\x86\Debug\BL.csprojResolveAssemblyReference.cache
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\obj\x86\Debug\BL.dll
+G:\saulsaul\Acer Traslado\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013\BL\obj\x86\Debug\BL.pdb
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\BL.dll
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\BL.pdb
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\AD.dll
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\BE.dll
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\Eventos.dll
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\office.dll
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\AD.pdb
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\BE.pdb
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\Eventos.pdb
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BL\bin\x86\Debug\office.xml
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BL\obj\x86\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BL\obj\x86\Debug\BL.dll
+C:\Users\Saul\Desktop\Proyectos W8\02 ContabilidadWEB - 18092013\BL\obj\x86\Debug\BL.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BL.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BL.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\AD.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BE.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Eventos.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\office.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\AD.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BE.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Eventos.pdb
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\office.xml
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Debug\BL.dll
+D:\Acer Traslado\Proyectos W8\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Debug\BL.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BL.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BL.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\AD.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BE.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Eventos.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\office.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\AD.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BE.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Eventos.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\office.xml
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Debug\BL.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Debug\BL.pdb
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BL.dll
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BL.pdb
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\AD.dll
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BE.dll
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Eventos.dll
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Microsoft.ApplicationBlocks.Data.dll
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\office.dll
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\AD.pdb
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BE.pdb
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Eventos.pdb
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\office.xml
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Debug\BL.dll
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Debug\BL.pdb
+M:\Proyectos\Walter\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Debug\BL.csprojResolveAssemblyReference.cache
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BL.dll
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BL.pdb
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\AD.dll
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BE.dll
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Eventos.dll
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\office.dll
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\AD.pdb
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BE.pdb
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Eventos.pdb
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\office.xml
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Debug\BL.csprojResolveAssemblyReference.cache
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Debug\BL.dll
+D:\COMPARTIR\Contabilidad_Completa\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Debug\BL.pdb
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BL.dll
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BL.pdb
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\AD.dll
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BE.dll
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Eventos.dll
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\office.dll
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\AD.pdb
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BE.pdb
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Eventos.pdb
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\office.xml
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Debug\BL.csprojResolveAssemblyReference.cache
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Debug\BL.dll
+D:\SGHweb\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Debug\BL.pdb
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BL.dll
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BL.pdb
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\AD.dll
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BE.dll
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Eventos.dll
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\office.dll
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\AD.pdb
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\BE.pdb
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\Eventos.pdb
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\bin\x86\Debug\office.xml
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Debug\BL.dll
+C:\Users\walter\Desktop\c#\Contabilidad Libros\02 ContabilidadWEB - 18092013 - copia\BL\obj\x86\Debug\BL.pdb
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BL\bin\x86\Debug\BL.dll
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BL\bin\x86\Debug\BL.pdb
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BL\bin\x86\Debug\AD.dll
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BL\bin\x86\Debug\BE.dll
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BL\bin\x86\Debug\Eventos.dll
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BL\bin\x86\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BL\bin\x86\Debug\office.dll
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BL\bin\x86\Debug\AD.pdb
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BL\bin\x86\Debug\BE.pdb
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BL\bin\x86\Debug\Eventos.pdb
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BL\bin\x86\Debug\office.xml
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BL\obj\x86\Debug\BL.csprojResolveAssemblyReference.cache
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BL\obj\x86\Debug\BL.dll
+D:\SGHweb\Contabilidad Libros - MLP2014\02 ContabilidadWEB\BL\obj\x86\Debug\BL.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\bin\x86\Debug\BL.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\bin\x86\Debug\BL.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\bin\x86\Debug\AD.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\bin\x86\Debug\BE.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\bin\x86\Debug\Eventos.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\bin\x86\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\bin\x86\Debug\office.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\bin\x86\Debug\stdole.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\bin\x86\Debug\AD.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\bin\x86\Debug\BE.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\bin\x86\Debug\Eventos.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\bin\x86\Debug\Microsoft.Office.Interop.Excel.xml
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\bin\x86\Debug\office.xml
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\obj\x86\Debug\BL.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\obj\x86\Debug\BL.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\obj\x86\Debug\BL.pdb

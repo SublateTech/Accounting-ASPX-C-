@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsInconsistencias" targetNamespace="http://tempuri.org/dsInconsistencias.xsd" xmlns:mstns="http://tempuri.org/dsInconsistencias.xsd" xmlns="http://tempuri.org/dsInconsistencias.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsInconsistencias" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsInconsistencias" msprop:Generator_UserDSName="dsInconsistencias">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="inconsistencia" msprop:Generator_TableClassName="inconsistenciaDataTable" msprop:Generator_TableVarName="tableinconsistencia" msprop:Generator_TablePropName="inconsistencia" msprop:Generator_RowDeletingName="inconsistenciaRowDeleting" msprop:Generator_UserTableName="inconsistencia" msprop:Generator_RowChangingName="inconsistenciaRowChanging" msprop:Generator_RowEvHandlerName="inconsistenciaRowChangeEventHandler" msprop:Generator_RowDeletedName="inconsistenciaRowDeleted" msprop:Generator_RowEvArgName="inconsistenciaRowChangeEvent" msprop:Generator_RowChangedName="inconsistenciaRowChanged" msprop:Generator_RowClassName="inconsistenciaRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AsientoContableID" msprop:Generator_ColumnVarNameInTable="columnAsientoContableID" msprop:Generator_ColumnPropNameInRow="AsientoContableID" msprop:Generator_ColumnPropNameInTable="AsientoContableIDColumn" msprop:Generator_UserColumnName="AsientoContableID" type="xs:string" minOccurs="0" />
+              <xs:element name="NombreSubDiario" msprop:Generator_ColumnVarNameInTable="columnNombreSubDiario" msprop:Generator_ColumnPropNameInRow="NombreSubDiario" msprop:Generator_ColumnPropNameInTable="NombreSubDiarioColumn" msprop:Generator_UserColumnName="NombreSubDiario" type="xs:string" minOccurs="0" />
+              <xs:element name="Dia" msprop:Generator_ColumnVarNameInTable="columnDia" msprop:Generator_ColumnPropNameInRow="Dia" msprop:Generator_ColumnPropNameInTable="DiaColumn" msprop:Generator_UserColumnName="Dia" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Comprobante" msprop:Generator_ColumnVarNameInTable="columnComprobante" msprop:Generator_ColumnPropNameInRow="Comprobante" msprop:Generator_ColumnPropNameInTable="ComprobanteColumn" msprop:Generator_UserColumnName="Comprobante" type="xs:string" minOccurs="0" />
+              <xs:element name="CodigoPlanCuenta" msprop:Generator_ColumnVarNameInTable="columnCodigoPlanCuenta" msprop:Generator_ColumnPropNameInRow="CodigoPlanCuenta" msprop:Generator_ColumnPropNameInTable="CodigoPlanCuentaColumn" msprop:Generator_UserColumnName="CodigoPlanCuenta" type="xs:string" minOccurs="0" />
+              <xs:element name="Glosa" msprop:Generator_ColumnVarNameInTable="columnGlosa" msprop:Generator_ColumnPropNameInRow="Glosa" msprop:Generator_ColumnPropNameInTable="GlosaColumn" msprop:Generator_UserColumnName="Glosa" type="xs:string" minOccurs="0" />
+              <xs:element name="Referencia" msprop:Generator_ColumnVarNameInTable="columnReferencia" msprop:Generator_ColumnPropNameInRow="Referencia" msprop:Generator_ColumnPropNameInTable="ReferenciaColumn" msprop:Generator_UserColumnName="Referencia" type="xs:string" minOccurs="0" />
+              <xs:element name="NumeroDocumento" msprop:Generator_ColumnVarNameInTable="columnNumeroDocumento" msprop:Generator_ColumnPropNameInRow="NumeroDocumento" msprop:Generator_ColumnPropNameInTable="NumeroDocumentoColumn" msprop:Generator_UserColumnName="NumeroDocumento" type="xs:string" minOccurs="0" />
+              <xs:element name="MontoDebe" msprop:Generator_ColumnVarNameInTable="columnMontoDebe" msprop:Generator_ColumnPropNameInRow="MontoDebe" msprop:Generator_ColumnPropNameInTable="MontoDebeColumn" msprop:Generator_UserColumnName="MontoDebe" type="xs:decimal" minOccurs="0" />
+              <xs:element name="MontoHaber" msprop:Generator_ColumnVarNameInTable="columnMontoHaber" msprop:Generator_ColumnPropNameInRow="MontoHaber" msprop:Generator_ColumnPropNameInTable="MontoHaberColumn" msprop:Generator_UserColumnName="MontoHaber" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Saldo" msprop:Generator_ColumnVarNameInTable="columnSaldo" msprop:Generator_ColumnPropNameInRow="Saldo" msprop:Generator_ColumnPropNameInTable="SaldoColumn" msprop:Generator_UserColumnName="Saldo" type="xs:decimal" minOccurs="0" />
+              <xs:element name="nombreArea" msprop:Generator_ColumnVarNameInTable="columnnombreArea" msprop:Generator_ColumnPropNameInRow="nombreArea" msprop:Generator_ColumnPropNameInTable="nombreAreaColumn" msprop:Generator_UserColumnName="nombreArea" type="xs:string" minOccurs="0" />
+              <xs:element name="MENSAJE" msprop:Generator_ColumnVarNameInTable="columnMENSAJE" msprop:Generator_ColumnPropNameInRow="MENSAJE" msprop:Generator_ColumnPropNameInTable="MENSAJEColumn" msprop:Generator_UserColumnName="MENSAJE" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

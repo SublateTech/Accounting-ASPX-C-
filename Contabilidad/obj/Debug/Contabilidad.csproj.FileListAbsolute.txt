@@ -1,0 +1,698 @@
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe.config
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe.manifest
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.application
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Eventos.dll
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\AD.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BL.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BE.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Eventos.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.csprojResolveAssemblyReference.cache
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaCorrienteReport.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaEfectivoReport.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_DiarioDetalladoReport.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_DiarioResumidoReport.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_HuespedesReport.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_InventarioReport.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_MayorDetalladoReport.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_MayorResumidoReport.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLibros.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLoginNew.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmValidaCompraSunat.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form2.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmBuscarEmpresa.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmConfigurarConexion.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmImportarExportar.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmInconsistencias.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmInterfacesSunat.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmProcesos.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmAsientos.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmAsientosList.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmBuscarCuenta.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmEmpresa.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLogin.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmRegistroAsientos.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmReporte.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferenciaCobranzas.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferencias.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferenciaVentas.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmVoucher.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmVoucherRpt.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.MDIPadre.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\PruebaProyectoCsharp.MDI_Form.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Properties.Resources.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.RadFormLOADDDD.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.TransferInforme.resources
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.csproj.GenerateResource.Cache
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe.licenses
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.TrustInfo.xml
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe.manifest
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.application
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.pdb
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe.config
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.pdb
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe.manifest
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.application
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.pdb
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\System.Web.Services.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.ChartView.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.GridView.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.PdfViewer.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.PivotGrid.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadChart.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadDock.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Scheduler.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.UI.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\TelerikCommon.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\TelerikData.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\FlashControlV71.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Microsoft.mshtml.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\stdole.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\ShockwaveFlashObjects.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\AD.pdb
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BL.pdb
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Eventos.pdb
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.pdb
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.pdb
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.pdb
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BE.pdb
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.xml
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.ChartView.xml
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.GridView.xml
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.PdfViewer.xml
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.PivotGrid.xml
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadChart.xml
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadDock.xml
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Scheduler.xml
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.UI.xml
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\TelerikData.xml
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.csprojResolveAssemblyReference.cache
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaCorrienteReport.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaEfectivoReport.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaCorrienteReport3.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaEfectivoReporta3.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_DiarioDetalladoReport.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_DiarioResumidoReport.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_HuespedesReport.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_InventarioReport.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_MayorDetalladoReport.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_MayorResumidoReport.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLibros.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLoginNew.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmValidaCompraSunat.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form2.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmBuscarEmpresa.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmConfigurarConexion.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmImportarExportar.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmInconsistencias.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmInterfacesSunat.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmProcesos.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmAsientos.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmAsientosList.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmBuscarCuenta.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmEmpresa.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLogin.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmRegistroAsientos.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmReporte.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferenciaCobranzas.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferencias.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferenciaVentas.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmVoucher.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmVoucherRpt.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.MDIPadre.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\PruebaProyectoCsharp.MDI_Form.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Properties.Resources.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.RadFormLOADDDD.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.TransferInforme.resources
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.csproj.GenerateResource.Cache
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe.licenses
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.TrustInfo.xml
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe.manifest
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.application
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe.config
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe.manifest
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.application
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.pdb
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\AD.pdb
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BL.pdb
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Eventos.pdb
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.pdb
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.pdb
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.pdb
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BE.pdb
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.csprojResolveAssemblyReference.cache
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaCorrienteReport.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaEfectivoReport.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaCorrienteReport3.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaEfectivoReporta3.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_DiarioDetalladoReport.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_DiarioResumidoReport.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_HuespedesReport.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_InventarioReport.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_MayorDetalladoReport.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_MayorResumidoReport.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLibros.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLoginNew.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmValidaCompraSunat.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form2.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmBuscarEmpresa.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmConfigurarConexion.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmImportarExportar.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmInconsistencias.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmInterfacesSunat.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmProcesos.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmAsientos.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmAsientosList.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmBuscarCuenta.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmEmpresa.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLogin.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmRegistroAsientos.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmReporte.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferenciaCobranzas.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferencias.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferenciaVentas.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmVoucher.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmVoucherRpt.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.MDIPadre.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\PruebaProyectoCsharp.MDI_Form.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Properties.Resources.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.RadFormLOADDDD.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.TransferInforme.resources
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.csproj.GenerateResource.Cache
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe.licenses
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.TrustInfo.xml
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe.manifest
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.application
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.pdb
+C:\Users\USUARIO\Desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe.config
+C:\Users\USUARIO\Desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe
+C:\Users\USUARIO\Desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe.config
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe.manifest
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.application
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\System.Web.Services.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.ChartView.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.GridView.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.PdfViewer.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.PivotGrid.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadChart.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadDock.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Scheduler.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.UI.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\TelerikCommon.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\TelerikData.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\FlashControlV71.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Microsoft.mshtml.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\stdole.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\ShockwaveFlashObjects.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\AD.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BL.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Eventos.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BE.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.xml
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.ChartView.xml
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.GridView.xml
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.PdfViewer.xml
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.PivotGrid.xml
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadChart.xml
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadDock.xml
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Scheduler.xml
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.UI.xml
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\TelerikData.xml
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.csprojResolveAssemblyReference.cache
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaCorrienteReport.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaEfectivoReport.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaCorrienteReport3.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaEfectivoReporta3.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_DiarioDetalladoReport.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_DiarioResumidoReport.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_HuespedesReport.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_InventarioReport.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_MayorDetalladoReport.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_MayorResumidoReport.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLibros.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLoginNew.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmValidaCompraSunat.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form2.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmBuscarEmpresa.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmConfigurarConexion.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmImportarExportar.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmInconsistencias.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmInterfacesSunat.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmProcesos.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmAsientos.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmAsientosList.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmBuscarCuenta.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmEmpresa.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLogin.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmRegistroAsientos.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmReporte.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferenciaCobranzas.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferencias.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferenciaVentas.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmVoucher.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmVoucherRpt.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.MDIPadre.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\PruebaProyectoCsharp.MDI_Form.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Properties.Resources.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.RadFormLOADDDD.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.TransferInforme.resources
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.csproj.GenerateResource.Cache
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe.licenses
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.TrustInfo.xml
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe.manifest
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.application
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe.config
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe.manifest
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.application
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\System.Web.Services.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\FlashControlV71.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Microsoft.mshtml.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\stdole.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\ShockwaveFlashObjects.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\AD.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BL.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Eventos.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BE.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.xml
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.ChartView.xml
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.GridView.xml
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.PdfViewer.xml
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.PivotGrid.xml
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadChart.xml
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadDock.xml
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Scheduler.xml
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.UI.xml
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\TelerikData.xml
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.csprojResolveAssemblyReference.cache
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaCorrienteReport.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaEfectivoReport.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaCorrienteReport3.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaEfectivoReporta3.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_DiarioDetalladoReport.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_DiarioResumidoReport.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_HuespedesReport.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_InventarioReport.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_MayorDetalladoReport.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_MayorResumidoReport.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLibros.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLoginNew.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmValidaCompraSunat.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form2.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmBuscarEmpresa.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmConfigurarConexion.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmImportarExportar.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmInconsistencias.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmInterfacesSunat.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmProcesos.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmAsientos.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmAsientosList.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmBuscarCuenta.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmEmpresa.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLogin.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmRegistroAsientos.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmReporte.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferenciaCobranzas.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferencias.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferenciaVentas.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmVoucher.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmVoucherRpt.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.MDIPadre.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\PruebaProyectoCsharp.MDI_Form.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Properties.Resources.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.RadFormLOADDDD.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.TransferInforme.resources
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.csproj.GenerateResource.Cache
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe.licenses
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.TrustInfo.xml
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe.manifest
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.application
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe.config
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe.manifest
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.application
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\System.Web.Services.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Microsoft.mshtml.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\stdole.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.csprojResolveAssemblyReference.cache
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaCorrienteReport.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaEfectivoReport.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaCorrienteReport3.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaEfectivoReporta3.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_DiarioDetalladoReport.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_DiarioResumidoReport.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_HuespedesReport.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_InventarioReport.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_MayorDetalladoReport.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_MayorResumidoReport.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLibros.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLoginNew.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmValidaCompraSunat.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form2.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmBuscarEmpresa.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmConfigurarConexion.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmImportarExportar.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmInconsistencias.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmInterfacesSunat.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmProcesos.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmAsientos.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmAsientosList.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmBuscarCuenta.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmEmpresa.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLogin.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmRegistroAsientos.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmReporte.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferenciaCobranzas.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferencias.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferenciaVentas.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmVoucher.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmVoucherRpt.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.MDIPadre.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\PruebaProyectoCsharp.MDI_Form.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Properties.Resources.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.RadFormLOADDDD.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.TransferInforme.resources
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.csproj.GenerateResource.Cache
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe.licenses
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.TrustInfo.xml
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe.manifest
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.application
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\AD.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BL.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BE.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\FlashControlV71.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\ShockwaveFlashObjects.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaCorrienteReport.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaEfectivoReport.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaCorrienteReport3.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaEfectivoReporta3.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_DiarioDetalladoReport.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_DiarioResumidoReport.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_HuespedesReport.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_InventarioReport.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_MayorDetalladoReport.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_MayorResumidoReport.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLibros.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLoginNew.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmValidaCompraSunat.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form2.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmBuscarEmpresa.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmConfigurarConexion.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmImportarExportar.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmInconsistencias.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmInterfacesSunat.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmProcesos.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmAsientos.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmAsientosList.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmBuscarCuenta.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmEmpresa.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLogin.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmRegistroAsientos.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmReporte.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferenciaCobranzas.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferencias.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferenciaVentas.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmVoucher.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmVoucherRpt.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.MDIPadre.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\PruebaProyectoCsharp.MDI_Form.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Properties.Resources.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.RadFormLOADDDD.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.TransferInforme.resources
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.csproj.GenerateResource.Cache
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe.licenses
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe.config
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe.manifest
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.application
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\System.Web.Services.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.ChartView.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.GridView.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.PdfViewer.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.PivotGrid.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadChart.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadDock.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Scheduler.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.UI.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\TelerikCommon.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\TelerikData.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\FlashControlV71.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Microsoft.mshtml.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\stdole.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\ShockwaveFlashObjects.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\AD.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BL.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BE.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.xml
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.ChartView.xml
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.GridView.xml
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.PdfViewer.xml
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.PivotGrid.xml
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadChart.xml
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadDock.xml
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Scheduler.xml
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.UI.xml
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\TelerikData.xml
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.TrustInfo.xml
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe.manifest
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.application
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.pdb
+D:\PROYECTOS\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.xml
+D:\PROYECTOS\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.ChartView.xml
+D:\PROYECTOS\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.GridView.xml
+D:\PROYECTOS\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.PdfViewer.xml
+D:\PROYECTOS\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.PivotGrid.xml
+D:\PROYECTOS\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadChart.xml
+D:\PROYECTOS\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadDock.xml
+D:\PROYECTOS\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+D:\PROYECTOS\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Scheduler.xml
+D:\PROYECTOS\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.UI.xml
+D:\PROYECTOS\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\TelerikData.xml
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe.config
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe.manifest
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.application
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.exe
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Contabilidad.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\System.Web.Services.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\FlashControlV71.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Microsoft.mshtml.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\stdole.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\ShockwaveFlashObjects.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\AD.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BL.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaPLE.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\ExportLAP.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BE.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.xml
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.ChartView.xml
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.GridView.xml
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.PdfViewer.xml
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.PivotGrid.xml
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadChart.xml
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadDock.xml
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.Scheduler.xml
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Telerik.WinControls.UI.xml
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\TelerikData.xml
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.csprojResolveAssemblyReference.cache
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaCorrienteReport.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaEfectivoReport.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaCorrienteReport3.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_CuentaEfectivoReporta3.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_DiarioDetalladoReport.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_DiarioResumidoReport.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_HuespedesReport.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_InventarioReport.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_MayorDetalladoReport.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form_MayorResumidoReport.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLibros.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLoginNew.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmValidaCompraSunat.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Form2.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmBuscarEmpresa.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmConfigurarConexion.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmImportarExportar.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmInconsistencias.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmInterfacesSunat.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmProcesos.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmAsientos.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmAsientosList.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmBuscarCuenta.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmEmpresa.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmLogin.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmRegistroAsientos.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmReporte.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferenciaCobranzas.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferencias.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmTransferenciaVentas.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmVoucher.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.frmVoucherRpt.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.MDIPadre.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\PruebaProyectoCsharp.MDI_Form.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.Properties.Resources.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.RadFormLOADDDD.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.TransferInforme.resources
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.csproj.GenerateResource.Cache
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe.licenses
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.TrustInfo.xml
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.exe.manifest
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\obj\Debug\Contabilidad.application
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\Eventos.pdb

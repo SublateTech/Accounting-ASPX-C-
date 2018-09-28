@@ -1,0 +1,30 @@
+D:\c#\Contabilidad\BE\bin\x86\Release\BE.dll
+D:\c#\Contabilidad\BE\bin\x86\Release\BE.pdb
+D:\c#\Contabilidad\BE\obj\x86\Release\ResolveAssemblyReference.cache
+D:\c#\Contabilidad\BE\obj\x86\Release\BE.dll
+D:\c#\Contabilidad\BE\obj\x86\Release\BE.pdb
+D:\c#\Contabilidad2\BE\bin\x86\Release\BE.dll
+D:\c#\Contabilidad2\BE\bin\x86\Release\BE.pdb
+D:\c#\Contabilidad2\BE\obj\x86\Release\ResolveAssemblyReference.cache
+D:\c#\Contabilidad2\BE\obj\x86\Release\BE.dll
+D:\c#\Contabilidad2\BE\obj\x86\Release\BE.pdb
+D:\c#\Contabilidad4\BE\bin\x86\Release\BE.dll
+D:\c#\Contabilidad4\BE\bin\x86\Release\BE.pdb
+D:\c#\Contabilidad4\BE\obj\x86\Release\ResolveAssemblyReference.cache
+D:\c#\Contabilidad4\BE\obj\x86\Release\BE.dll
+D:\c#\Contabilidad4\BE\obj\x86\Release\BE.pdb
+D:\Desarrollo\ContabilidadWEB\BE\bin\x86\Release\BE.dll
+D:\Desarrollo\ContabilidadWEB\BE\bin\x86\Release\BE.pdb
+D:\Desarrollo\ContabilidadWEB\BE\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Desarrollo\ContabilidadWEB\BE\obj\x86\Release\BE.dll
+D:\Desarrollo\ContabilidadWEB\BE\obj\x86\Release\BE.pdb
+D:\ContabilidadWEB\BE\bin\x86\Release\BE.dll
+D:\ContabilidadWEB\BE\bin\x86\Release\BE.pdb
+D:\ContabilidadWEB\BE\obj\x86\Release\ResolveAssemblyReference.cache
+D:\ContabilidadWEB\BE\obj\x86\Release\BE.dll
+D:\ContabilidadWEB\BE\obj\x86\Release\BE.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\bin\x86\Release\BE.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\bin\x86\Release\BE.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Release\BE.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BE\obj\x86\Release\BE.pdb

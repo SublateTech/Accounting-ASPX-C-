@@ -1,0 +1,139 @@
+D:\c#\Contabilidad\BL\bin\Debug\BL.dll
+D:\c#\Contabilidad\BL\bin\Debug\BL.pdb
+D:\c#\Contabilidad\BL\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\Contabilidad\BL\obj\Debug\BL.dll
+D:\c#\Contabilidad\BL\obj\Debug\BL.pdb
+D:\c#\Contabilidad\BL\bin\Debug\AD.dll
+D:\c#\Contabilidad\BL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\c#\Contabilidad\BL\bin\Debug\AD.pdb
+D:\c#\Contabilidad\BL\bin\Debug\BE.dll
+D:\c#\Contabilidad\BL\bin\Debug\BE.pdb
+D:\c#\Contabilidad\BL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\c#\Contabilidad\BL\bin\Debug\office.dll
+D:\PROYECTOS\02 ContabilidadWEB\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\02 ContabilidadWEB\BL\obj\Debug\BL.dll
+D:\PROYECTOS\02 ContabilidadWEB\BL\obj\Debug\BL.pdb
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\Debug\BL.dll
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\Debug\BL.pdb
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\Debug\AD.dll
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\Debug\BE.dll
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\Debug\Eventos.dll
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\Debug\office.dll
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\Debug\AD.pdb
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\Debug\BE.pdb
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\Debug\Eventos.pdb
+D:\PROYECTOS\02 ContabilidadWEB\BL\bin\Debug\office.xml
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Debug\BL.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Debug\BL.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Debug\AD.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Debug\BE.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Debug\Eventos.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Debug\office.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Debug\AD.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Debug\BE.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Debug\Eventos.pdb
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\bin\Debug\office.xml
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\obj\Debug\BL.dll
+C:\Walter\02 ContabilidadWEB - 18092013 - copia\BL\obj\Debug\BL.pdb
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BL\bin\Debug\BL.dll
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BL\bin\Debug\BL.pdb
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BL\bin\Debug\AD.dll
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BL\bin\Debug\BE.dll
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BL\bin\Debug\Eventos.dll
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BL\bin\Debug\office.dll
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BL\bin\Debug\AD.pdb
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BL\bin\Debug\BE.pdb
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BL\bin\Debug\Eventos.pdb
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BL\bin\Debug\office.xml
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BL\obj\Debug\BL.dll
+D:\SGHweb\SHIOLConta\ShiolContaSolution\BL\obj\Debug\BL.pdb
+D:\SGH sistemas Conta\ShiolContaSolution\BL\bin\Debug\BL.dll
+D:\SGH sistemas Conta\ShiolContaSolution\BL\bin\Debug\BL.pdb
+D:\SGH sistemas Conta\ShiolContaSolution\BL\bin\Debug\AD.dll
+D:\SGH sistemas Conta\ShiolContaSolution\BL\bin\Debug\BE.dll
+D:\SGH sistemas Conta\ShiolContaSolution\BL\bin\Debug\Eventos.dll
+D:\SGH sistemas Conta\ShiolContaSolution\BL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\SGH sistemas Conta\ShiolContaSolution\BL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SGH sistemas Conta\ShiolContaSolution\BL\bin\Debug\office.dll
+D:\SGH sistemas Conta\ShiolContaSolution\BL\bin\Debug\AD.pdb
+D:\SGH sistemas Conta\ShiolContaSolution\BL\bin\Debug\BE.pdb
+D:\SGH sistemas Conta\ShiolContaSolution\BL\bin\Debug\Eventos.pdb
+D:\SGH sistemas Conta\ShiolContaSolution\BL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\SGH sistemas Conta\ShiolContaSolution\BL\bin\Debug\office.xml
+D:\SGH sistemas Conta\ShiolContaSolution\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\SGH sistemas Conta\ShiolContaSolution\BL\obj\Debug\BL.dll
+D:\SGH sistemas Conta\ShiolContaSolution\BL\obj\Debug\BL.pdb
+D:\SGHweb\SHIOLConta\modificando\BL\bin\Debug\BL.dll
+D:\SGHweb\SHIOLConta\modificando\BL\bin\Debug\BL.pdb
+D:\SGHweb\SHIOLConta\modificando\BL\bin\Debug\AD.dll
+D:\SGHweb\SHIOLConta\modificando\BL\bin\Debug\BE.dll
+D:\SGHweb\SHIOLConta\modificando\BL\bin\Debug\Eventos.dll
+D:\SGHweb\SHIOLConta\modificando\BL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\SGHweb\SHIOLConta\modificando\BL\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SGHweb\SHIOLConta\modificando\BL\bin\Debug\office.dll
+D:\SGHweb\SHIOLConta\modificando\BL\bin\Debug\AD.pdb
+D:\SGHweb\SHIOLConta\modificando\BL\bin\Debug\BE.pdb
+D:\SGHweb\SHIOLConta\modificando\BL\bin\Debug\Eventos.pdb
+D:\SGHweb\SHIOLConta\modificando\BL\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\SGHweb\SHIOLConta\modificando\BL\bin\Debug\office.xml
+D:\SGHweb\SHIOLConta\modificando\Contabilidad\bin\Debug\BL.dll
+D:\SGHweb\SHIOLConta\modificando\Contabilidad\bin\Debug\BL.pdb
+D:\SGHweb\SHIOLConta\modificando\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\SGHweb\SHIOLConta\modificando\BL\obj\Debug\BL.dll
+D:\SGHweb\SHIOLConta\modificando\BL\obj\Debug\BL.pdb
+D:\Proyectos SGH Server Tania\Backup_210116\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BL.dll
+D:\Proyectos SGH Server Tania\Backup_210116\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BL.pdb
+D:\Proyectos SGH Server Tania\Backup_210116\ShiolContabilidadEscritorio\trunk\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Proyectos SGH Server Tania\Backup_210116\ShiolContabilidadEscritorio\trunk\BL\obj\Debug\BL.dll
+D:\Proyectos SGH Server Tania\Backup_210116\ShiolContabilidadEscritorio\trunk\BL\obj\Debug\BL.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BL.dll
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BL.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\BL\obj\Debug\BL.dll
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\BL\obj\Debug\BL.pdb
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BL.dll
+F:\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BL.pdb
+F:\ShiolContabilidadEscritorio\trunk\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+F:\ShiolContabilidadEscritorio\trunk\BL\obj\Debug\BL.dll
+F:\ShiolContabilidadEscritorio\trunk\BL\obj\Debug\BL.pdb
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BL.dll
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BL.pdb
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\BL\obj\Debug\BL.dll
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\BL\obj\Debug\BL.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BL.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\BL.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\BL\obj\Debug\BL.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\BL\obj\Debug\BL.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BL.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BL.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\BL\obj\Debug\BL.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\BL\obj\Debug\BL.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BL.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BL.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\BL\obj\Debug\BL.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\BL\obj\Debug\BL.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BL.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BL.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\obj\Debug\BL.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\BL\obj\Debug\BL.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BL.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\BL.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\BL\obj\Debug\BL.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\BL\obj\Debug\BL.pdb

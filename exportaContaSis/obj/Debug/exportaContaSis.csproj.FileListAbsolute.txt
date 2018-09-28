@@ -1,0 +1,40 @@
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.dll
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.dll
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.pdb
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.csprojResolveAssemblyReference.cache
+D:\Proyectos SGH Server Tania\ShiolContabilidadEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.csproj.ResolveComReference.cache
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.dll
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.pdb
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.csproj.ResolveComReference.cache
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.dll
+D:\Proyectos SGH Server Tania\desktop_prueba\ShiolContabilidadEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.pdb
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.csprojResolveAssemblyReference.cache
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.csproj.ResolveComReference.cache
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.dll
+D:\Proyecto\project\desktop\fuentes\ShiolContabilidadEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.pdb
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.csprojResolveAssemblyReference.cache
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.csproj.ResolveComReference.cache
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.dll
+E:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.pdb
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.csprojResolveAssemblyReference.cache
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.csproj.ResolveComReference.cache
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.dll
+D:\Proyectos\Fuentes Proyectos\SistemaContableEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.pdb
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.csproj.ResolveComReference.cache
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.dll
+D:\PROYECTOS\Fuentes Proyectos Antes\SistemaContableEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.csprojResolveAssemblyReference.cache
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.csproj.ResolveComReference.cache
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\exportaContaSis\obj\Debug\exportaContaSis.pdb
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.dll
+D:\SGH_Sistemas\SistemaContableEscritorio\trunk\Contabilidad\bin\Debug\exportaContaSis.pdb
